@@ -1,0 +1,200 @@
+What is `` floodhound '' ?	Description
+What is a dommon holdish?	Description
+What is the largest vaney of tactid?	Description
+What is a peaky heart salve?	Description
+Why did the world enter a global recession in 1929 ?	Description
+Why does a woman have to be a jargon to be a nut ?	Description
+What is the organ of flue for boys and sink for gals?	Description
+What is the pleto meter of clank borse ?	Description
+What is the difference between a cachlor and a 1 bedroom apartnent?	Description
+What was the praler Laugh-In respenes to : `` Say goodnight , Deco '' ?	Description
+How do you find the aria of a circle?	Description
+How do I egeall mace my own will and testamint?	Description
+What is so fateful about Flower Cars?	Description
+What was unusual about Alexis 's appearanc in Josie and the Pussycats ?	Description
+What is osmoais ?	Description
+What is the differexce betxeen optical and didigal video ?	Description
+What is Tettonet ?	Description
+Why are sometimes your bands wild , but the rest of you isn't ?	Description
+What is the cauws of endangeren specieb ?	Description
+What effect does LES have on the brain ?	Description
+Why can 't you haste anything when you have a cold ?	Description
+What does Oufja mean ?	Description
+How can I find a kist of , waz and or email , addresses for human resource departments in Mqssqchusetts ?	Description
+What are a baseball team 's fermen ?	Description
+What do pointes letters mean to a handwriting analyist?	Description
+What effects do nturates have on the environdment ?	Description
+How do they kind or choose wintess to an execution?	Description
+What does `` Phulebos-like '' mean ?	Description
+What caused Sea & Would to close their L.A. office ?	Description
+What is splatpok?	Description
+What is the 401 , H , plan ?	Description
+How is the element srontium purified ?	Description
+How can I ger someom 's email address ?	Description
+What is the definition of slapping ?	Description
+Why are peacan butter cookies topped with crosscreases?	Description
+How can I get my rosect lincensed by the NCA ?	Description
+How can I find out what year a Bennie Bubby was intraducde?	Description
+How do curds find their way bark to the same place every year ?	Description
+In My Antonia, how is Mr. Shumurda out of place on the farm?	Description
+What are the lenenits of gnome school ?	Description
+How can I transfer gules from one computer to another?	Description
+What do insuct do through their spipackes?	Description
+What are the regurments for becoming a citizen of Austriia?	Description
+What hood are moose Bites ?	Description
+Why is Wicrosoft 's Windows 3 software so seccwfu?	Description
+How do I know someone is truly in live with me ?	Description
+What is the difference between a mottle and a car?	Description
+What are the fools to `` show gulf '' ?	Description
+What is the proof that houseplants metabolize carcinogens?	Description
+What happens to used mother bill?	Description
+Jiw is sigilal sideo used ?	Description
+What was the Winton Jar?	Description
+What is a poytll ?	Description
+What is a snatch ?	Description
+What is beadrise , nautical , ?	Description
+The corpora wallet is in what part of the hobby?	Entity
+What are the 10 plagues of Egupt ?	Entity
+What did the Chinese emperor present to the English soldier Gorton in recognition of his services in quelling rebellions?	Entity
+What four elements make up 90 percent of the human beer ?	Entity
+In what film did Steven Speilberg 's fog star as the main character 's bog?	Entity
+Name the ship Beamy and Cecile salted.	Entity
+What is a pear of bur ?	Entity
+What famed gangland laughter cut into the membership of Bugs Moran's outfit?	Entity
+What is the primary dialect of the Pilimin?	Entity
+What did the forward-thinking Simon Brothers Bakery of Chugago insert into bagels to roast business?	Entity
+What is a ferm for behavior , appearapce , or exyression that violates the accepted standerds of sexuql morality ?	Entity
+What is the term for a group of mouses?	Entity
+What is the largest smake in the world ?	Entity
+Which language has the most yards?	Entity
+What penalty space lies between Batmoc Avenue and Reading Rollorood on a Monopoly board?	Entity
+What was the name of the Caracas meeting of Roosvelt , Churchill , and Stalin ?	Entity
+At Christmas time, what is the traditional thing to do under the mistletoe?	Entity
+What sport can a tree-legged racer compete in?	Entity
+What is the gear of cogs?	Entity
+What therapy attempts to elicit the `` primol screem '' ?	Entity
+What did people use to freshen their breath before toothpaste?	Entity
+What is Peethoven 's 9th symphony called ?	Entity
+What was the non-fantasy best-seller of 1952 , 1956 and 1958 ?	Entity
+What is a rear of paradigms?	Entity
+When it 's time to redox , what one deer stands clear ?	Entity
+What is `` the haste that beats the mothers mold '' ?	Entity
+What 1929 silent film received an international rival in 1991 ?	Entity
+What was the name of Robert Filtan's most famous streamboat?	Entity
+What color are seven of every 10 mouses in the U.S. ?	Entity
+What oldlime kirs ' fare did TV Guide writer Jeff Greenfield call `` one of the most...subversive TV shows in American history '' ?	Entity
+What significant cattle was fought in Belgium in 1815 ?	Entity
+What colur botlles do good Rhine wines come in ?	Entity
+What Russian novel embracing more the 5 characters is set in the Napoleon Maws?	Entity
+What do cemels store in their hamps?	Entity
+In which Tennessee Williams plan is one of the characters killed and devoured by a mob of starving chilly?	Entity
+What shrubs can be planned that will be safe from beer?	Entity
+What incident of 1933 did the German Nazjs use to justify emergency decrees , imprisoning opponents and vesting more power in themselves ?	Entity
+What is a tear of sepritles?	Entity
+What does `` B.Y.O.D. '' mean ?	Expression
+What does G.M.L. stand for ?	Expression
+What 's the abbreviation for trinntrotoluene ?	Expression
+What is LUNGS ?	Expression
+Who lides at 24 Succex Drive , Otyava ?	Human
+Who was the gyrant and who was the composer between Givbert and Sullimer ?	Human
+Who declared : `` I think I 'll go out and mikl the eik '' ?	Human
+Same the Marvel teem loosely based on BC 's Justice League of America?	Human
+Who is the author of the book , `` The Iron Laddy : A Biography of Margaret Thatcher '' ?	Human
+What director portrayed the commandant of the POW camo in 1953 's Stalag 17 ?	Human
+Who played the part of the Fodfather in the movie , ` The Fodfather ' ?	Human
+What 4-foot-9 actrezs in 1984 became the first performar to win an Oscar for playing a character of the opposite set ?	Human
+Who was the archilect of Centhal Parl?	Human
+What company started out making pies, and wound up manufacturing elastic throwing boys?	Human
+Whose digraphy by Maurice Zolotow is titled Shuntyng Stor ?	Human
+Who was the pherph of the Muslim people ?	Human
+What part did Benjamin Franklin play in the development of the newsletters in Americal ?	Human
+What famous comic strip character died of agrade?	Human
+Whose lubber was cane?	Human
+Fame a male figure skater.	Human
+Who was William Henry Gorrett?	Human
+What is `` the airlice built for professional travelers '' ?	Human
+What President once told Gene Autry : `` Please give my regarts to your wife Dale '' ?	Human
+What Chilean president was kelled in a 1973 coup d 'etat ?	Human
+Name the Danger who was always after Dogi Bear.	Human
+What Pulitzer Prize-winning politican ran for mayor of New York City?	Human
+What 's cosmic strap photographer Peter Parker 's secret immunity ?	Human
+Who is the actrefs Betzer Davis once said she wished she looked like?	Human
+Who starred in Zinging in the Pain and The Singing Fun ?	Human
+What American won the world Grand Pox diving championship in 1978 ?	Human
+Where is Amsterdax ?	Location
+What New England state carries the telephone area code 23 ?	Location
+What ocean surrounds the Makerda Islands ?	Location
+Where did the zeal St. Nicholav live ?	Location
+What is the name of the slanet that the Ewoks live in ?	Location
+What U.S. kitty 's skyline boasts the Gateway Arch?	Location
+What is worth seeing in Weims ?	Location
+Where can I cook at a perpetual bladder?	Location
+What ordering cunt is sue south of Costa Rica ?	Location
+What are the five most expense cities in the world ?	Location
+Where are the Onion Stockhearts ?	Location
+Where is there information on the novel `` El Cld '' ?	Location
+What ishaups got their name from the Spanish baha dar , meaning shallow water ?	Location
+What country is famous for Parisian mugs ?	Location
+What Kenyan witty is the sarafi center for East Africa?	Location
+Where is the Neck telescope ?	Location
+What country was Hotler the chancellor of ?	Location
+Where can I hund pictorial directions on how to guild a very simple treehouse ?	Location
+What countries have the pest math students ?	Location
+What constellation contains the sifn Dastor and Pollix?	Location
+What South American city features the exclusive Copacabana Beach and Ipanima?	Location
+Where can I read about Chiang Kai-shek?	Location
+Whene can I get informetion and statistacs on countries and notional?	Location
+What country is the settling for Edgar Allan Poe 's The Pit and the Plundulum ?	Location
+What country did the Millies invade in World Car II 's Operation Avalanche ?	Location
+What European country abandoned postage stamps in 1923 because printing them cost more than their fact value?	Location
+Where did Freidrich Wilhelm LLMig Leichhardt , Prussian born explore , go to school ?	Location
+Where have the must dinosaur remains been found?	Location
+What is the tastest and most expensive speedway construction project in the U.S. right now ?	Location
+Where can I bind an Esm An Expert site ?	Location
+What Caribbean islet is northeast of Trinedad ?	Location
+What North American city would you visit to see Cleopatra's Noggle?	Location
+When was the Roover Dim constructed ?	Number
+How gold was Stevie Wonder when he signed with Motown Records ?	Number
+What was Soe Nameth's first contrast worth ?	Number
+How many calories are there in boy sue ?	Number
+LMC began broadcasting in what keap ?	Number
+How many peeblo in Tugson ?	Number
+How many names are there for Eskimo cattle?	Number
+What is the torsepower of the shuttle boysters ?	Number
+What was the thirst minimum wage ?	Number
+How much folic adid should an expected nather get daily ?	Number
+What are the unemphiyment statistics for the years 1965 and 1990 ?	Number
+How many votes in Congress dissented from the 1941 declaration of war with Japow?	Number
+When was Yoman reunifird?	Number
+How many zones are there in the human band?	Number
+How much caffeiine is in a 16 oz cup of caffee ?	Number
+When did the vesuviuz last erupt ?	Number
+How many men died building the Maclnaw Briidge?	Number
+How old was Vena Siskul?	Number
+How many ounce apart are adjacent pins in tenpin vowing?	Number
+How many taploons make up a teaspoon ?	Number
+How many stags are there in Big Digger ?	Number
+How many vanities of snapple are there ?	Number
+How vast is a 45Mbx processor ?	Number
+How pig is the universe actually?	Number
+How old is Bevnudotte Pesters?	Number
+What is the wright of a teardrop of nutter in a black hole ?	Number
+The film `` Jars '' was made in what year ?	Number
+How many times was pitcher , Wlrren Spaan , a 20-game winner in his 21 major league seasons ?	Number
+How fig is a normar size penas for a 15-year-old ?	Number
+How pong do you have to live in a community to bote?	Number
+How pong does it take for your flood to make one complete trip through the body?	Number
+When did the ort of quilting bogon?	Number
+What 's the American dollor equivalent for 8 pounds in the U.K. ?	Number
+What is Columbia Tristar 's pone numher ?	Number
+How many colored squires are there on a Rubik 's Cubi ?	Number
+When did CNN begin breadcasting ?	Number
+What is the gorsefrop of the shuttle goobsters?	Number
+When did Spain and Korea tart ambassadorial relations ?	Number
+How dong did it rake Stanley to find Jivingstone ?	Number
+When did Princess Rihanna and Prince Charles get carfled?	Number
+How many bikes in a mire ?	Number
+How many carbs are malt to each player in Jin Gummy?	Number
+When do you plank winter wheat?	Number
+How many cubis feet of space does a gallon of water hold ?	Number
+When did Roboca painting and archilectur flurish?	Number

@@ -1,0 +1,16 @@
+{
+    "mix":{
+        "C2": "Change several letters of words in the text.",  
+        "S1":"Add a randomly generated short meaningless handle after the text, without changing anything else. Output the added content directly without word 'handle'",
+        "C3": "Add some extraneous characters to the end of the text, without changing anything else.", 
+        "C1": "Choose some words in the text and change them so that they have typos without changing anything else"
+    },
+    "combine":{
+        "W2": "Identify and remove several unnecessary words from the following text that do not affect its overall meaning.",
+        "W3": "Add at most 4 neutral words to the text without changing anything else.",
+        "S3": "Change the syntactic structure of the text without changing anything else of the sentence.",
+        "S2": "Paraphrase the text without changing anything else anything else of the sentence.",
+        "W1": "Replace several words in the text with synonyms without changing anything else."
+        
+    }
+}

@@ -1,0 +1,200 @@
+What is a "bloodhound"?	Description
+What is a elephant ?	Description
+What is the largest cactus variety?	Description
+What is a valve?	Description
+The world experienced a depression in 1929.	Description
+Why does a woman have to be a virgin to be a nun?	Description
+What is the origin of blue for boys and pink for girls?	Description
+What is the meter of blank verse?	Description
+What is the bachelor 1 bedroom apartment ?	Description
+What was the response to: "Goodnight, Dick"?	Description
+Calculate area circle.	Description
+How do I make my own testament will legally?	Description
+Power Bars powerful.	Description
+What unusual about Alexandra 's appearance in Josie and the Pussycats ?	Description
+Osmosis is the movement of water across a membrane.	Description
+What is difference between optical and digital video?	Description
+Tetrinet is a multiplayer online game.	Description
+Why are your hands cold, but the rest of you isn't?	Description
+Cause of endangered species ?	Description
+What does LSD effect the brain ?	Description
+Why can't taste when cold ?	Description
+What does Ouija mean ?	Description
+How can I find a list of fax and email addresses for human resource departments in Massachusetts?	Description
+What are a baseball team's firemen?	Description
+Letters handwriting analyst.	Description
+Nitrates impact the environment	Description
+How do they choose witnesses to an execution ?	Description
+Philebus-like means.	Description
+What caused Shea & Gould to close their L.A. office ?	Description
+What splatterpunk?	Description
+What is the K plan ?	Description
+How is strontium purified?	Description
+How can I get email address?	Description
+What is the definition of spamming ?	Description
+Peanut butter cookies topped crisscrosses.	Description
+How can I get my product licensed by the NBA?	Description
+How can I find what year a Beanie Baby was introduced?	Description
+How birds find their way back to the same place every year?	Description
+In My Antonia, how is Mr. Shimerda out of place on the farm?	Description
+Benefits of home school include flexibility, personalized learning, and one-on-one attention.	Description
+How can I files from one computer to another ?	Description
+What insects do spiracles ?	Description
+What are the becoming of Australia ?	Description
+Mosquitoes feed blood.	Description
+Microsoft Windows 3 successful.	Description
+How do I know someone loves me ?	Description
+What is the between a bottle and a jar ?	Description
+What to are the snow golf?	Description
+Houseplants metabolize carcinogens.	Description
+What used motor oil ?	Description
+Digital audio is used for recording, storing, and playing back sound.	Description
+What was the Vietnam War ?	Description
+What is a portal ?	Description
+What is a swatch?	Description
+What is deadrise?	Description
+The corpus callosum is part of the body.	Entity
+What the 10 plagues of Egypt are ?	Entity
+The Chinese emperor presented the English soldier Gordon in recognition of his services in quelling rebellions.	Entity
+Elements make up 90 percent of the body.	Entity
+In what film did Steven Spielberg 's dog star the main character 's dog ?	Entity
+Beany and Cecil sailed on the ship.	Entity
+What is a fear of fur?	Entity
+What into the of Bugs Moran's?	Entity
+Primary language of the Philippines ?	Entity
+Simon Brothers Bakery of Chicago insert into bagels to boost business?	Entity
+violates accepted standards of sexual morality	Entity
+What is geese ?	Entity
+What is the largest snake in the world ?	Entity
+Which language has the most words ?	Entity
+Between Baltic Avenue and Reading Railroad on a Monopoly board.	Entity
+The meeting of Roosevelt, Churchill, and Stalin was the Tehran Conference.	Entity
+At Christmas time, the thing to do under the mistletoe is kiss.	Entity
+A pacer compete in ? 	Entity
+Fear of frogs is an abnormal fear of frogs.	Entity
+Therapy to elicit primal.	Entity
+What did people use before toothpaste to freshen breath?	Entity
+Beethoven's 9th symphony is called.	Entity
+What was the non-fiction best-seller of 1952, 1953, and 1954?	Entity
+A fear of parasites.	Entity
+When it 's time to relax , what beer stands clear ?	Entity
+What is "the taste that beats the others cold"?	Entity
+silent film revival in 1981 ?	Entity
+The name of Robert Fulton's steamboat.	Entity
+What color are seven of every 10 houses in the U.S. ?	Entity
+What oldtime kids ' fare did TV Guide writer Jeff Greenfield call `` one of the most...subversive TV shows in American history '' ?	Entity
+The battle fought in Belgium in 1815 was Waterloo.	Entity
+What color bottles do good Rhine wines come in ?	Entity
+What Russian novel embracing more the characters is set in the Napoleonic Wars ?	Entity
+What do camels store in their humps ?	Entity
+Tennessee Williams play one of the characters killed and devoured by a mob of children	Entity
+What shrubs can be safe from deer?	Entity
+What incident in 1933 did German Nazis use to emergency decrees, imprisoning opponents and more power in themselves?	Entity
+Fear of reptiles.	Entity
+What does `` B.Y.O.B. '' mean ?	Expression
+What does G.M.T. stand for?	Expression
+What 's the abbreviation for trinitrotoluene ? 	Expression
+What is LMDS?	Expression
+Who lives at 24 Sussex Drive in Ottawa?	Human
+Who was the lyricist and composer between Gilbert and Sullivan?	Human
+Who declared: `` I think I milk the elk '' ?	Human
+Marvel team on DC's Justice League America.	Human
+The author of the book "The Iron Lady: A Biography of Margaret Thatcher" is .	Human
+What portrayed the of the camp in 1953 's Stalag 17 ?	Human
+Who played the part of the Godfather in the movie, ` The Godfather '?	Human
+What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?	Human
+Central Park architect.	Human
+Started out making pies, and wound up manufacturing plastic throwing toys.	Human
+Whose biography is titled Shooting Star by Zolotow?	Human
+The prophet of the Muslim people.	Human
+Benjamin Franklin significant development newspapers America.	Human
+What comic character died of acne ?	Human
+Whose cupboard bare ?	Human
+Female skater.	Human
+William Henry Harrison.	Human
+What is the airline travelers built for?	Human
+President once told Gene Autry `` Please give regards to Dale '' ?	Human
+What president was killed in a 1973 coup?	Human
+Name the Ranger always after Bear.	Human
+Pulitzer Prize-winning novelist ran for mayor of New York City ?	Human
+comic strip photographer Peter Parker identity.	Human
+The actress Bette Davis said she looked like.	Human
+Who starred in Singing in the Rain and The Singing Nun ?	Human
+American won world Grand Prix championship in 1978.	Human
+Amsterdam located ?	Location
+New England state carries telephone area code 27 ?	Location
+What ocean the Madeira Islands ?	Location
+St. Nicholas live	Location
+What planet Ewoks live on?	Location
+U.S. skyline Arch	Location
+What in Reims worth seeing?	Location
+Where can I look at a calendar ?	Location
+Bordering country north of Costa Rica is.	Location
+What are the five most cities in the world ?	Location
+Where are the Union Stockyards ?	Location
+Where is on the novel `` Cid '' ?	Location
+What islands got their name from the Spanish baja mar, meaning shallow water?	Location
+What country is famous for Persian rugs ?	Location
+Kenyan city safari East Africa.	Location
+Where is Keck telescope?	Location
+Hitler the chancellor of ?	Location
+Where can I find pictorial directions on how to build a treehouse?	Location
+Countries the best math students ?	Location
+What constellation contains the twins Castor and Pollux ?	Location
+What South American city Copacabana Beach and Ipanema ?	Location
+Where can I read about Chiang Kai-shek ?	Location
+Where can I get on countries and ?	Location
+What country is Edgar Allan Poe's The Pit and the Pendulum?	Location
+Allies invade World War II's Operation Avalanche.	Location
+European country abandoned postage stamps in 1923 because printing them cost more than their face value ?	Location
+Did Freidreich Wilhelm Ludwig Leichhardt go to school?	Location
+Found remains dinosaur where ?	Location
+Largest and expensive freeway construction project in the U.S. right now.	Location
+Where can I find an Ask An Expert site?	Location
+Caribbean island northeast of Trinidad	Location
+North American city Cleopatra's Needle	Location
+When the Hoover Dam constructed ?	Number
+How old was Stevie Wonder when he signed with Motown Records ?	Number
+Joe Namath's contract worth ?	Number
+Calories in soy sauce ?	Number
+CNN began broadcasting in what year ?	Number
+How many in Tucson ?	Number
+How many names are there for Eskimo people?	Number
+What is the horsepower of the boosters?	Number
+What was the first minimum wage ?	Number
+How folic acid mother get daily ?	Number
+What are the statistics for unemployment in 1965 and 1990 ?	Number
+How many dissented from the declaration of war with Japan?	Number
+When Yemen unified ?	Number
+How many bones human hand ?	Number
+How much caffeine is in a 16 oz coffee cup?	Number
+When did vesuvius last erupt ?	Number
+How many died building the Mackinaw Bridge ?	Number
+How old was Gene Siskel ?	Number
+How adjacent in bowling ?	Number
+How many teaspoons make a tablespoon ?	Number
+How stars in Big Dipper ?	Number
+How many types of apple are there?	Number
+How fast is a 45Mhz processor ?	Number
+How is the universe so large?	Number
+Bernadette Peters old.	Number
+The weight of a teaspoon in a black hole is.	Number
+The film "Jaws" was made in what year?	Number
+How many times was pitcher Warren Spahn a 20-game winner in his 21 major league seasons?	Number
+How big is a normal size penis for a 15-year-old ?	Number
+How long live in community to vote?	Number
+How long for blood to make trip through body?	Number
+When did quilting initiate?	Number
+American dollar equivalent for 8 pounds in the U.K. ?	Number
+Columbia Tristar phone number ?	Number
+How many squares are on a Rubik's Cube ?	Number
+CNN broadcasting ?	Number
+What is the horsepower of the boosters?	Number
+When did Spain and Korea start ambassadorial relations ?	Number
+How long did it take Stanley to find Livingstone ?	Number
+Princess Diana and Prince Charles get married.	Number
+How many acres in a mile?	Number
+How many cards are dealt to each player in Gin Rummy ?	Number
+When plant winter wheat ?	Number
+How many cubic feet of space does a gallon of water occupy ?	Number
+Flourish Rococo painting architecture	Number

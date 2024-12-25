@@ -1,0 +1,200 @@
+What does "bloodhound" mean?	Description
+What is a typical dolphin?	Description
+What type of cactus is the biggest?	Description
+What is a heart valve with leakage classified as?	Description
+The economic downturn that affected the world led to the worldwide recession of 1929.	Description
+Why is it important for a nun to be a female who has not participated in sexual intercourse before?	Description
+What is the source of pink for males and blue for females?	Description
+What is the measurement of poetry free verse?	Description
+What separates an individual male from a studio flat?	Description
+Dick received goodnight wishes from Laugh-In with something being said to him.	Description
+What method do you use to calculate the dimensions of a circle?	Description
+How may I legally create my personal testament and will?	Description
+What is responsible for the effectiveness of Power Bars?	Description
+Alexandra's introduction in Josie and the Pussycats showcased a distinctive trait.	Description
+What does osmosis entail?	Description
+What differences are present between optical and digital video technology?	Description
+What is the purpose of Tetrinet?	Description
+What causes your hands to be cooler than the rest of your body?	Description
+What causes endangered species to be at risk of vanishing?	Description
+What is the effect of LSD on brain operation?	Description
+Why is it impossible to perceive tastes when you are suffering from a cold?	Description
+What is the meaning of the Ouija board?	Description
+Where can human resource departments in Massachusetts be found in a directory of fax and email contacts?	Description
+What makes up a baseball team's fire extinguishing squad?	Description
+What importance do sharp characters have for a handwriting analyst?	Description
+What impact can nitrates in the ecosystem cause?	Description
+How are individuals selected to witness the execution process?	Description
+What is the definition of "Philebus-like"?	Description
+Shea & Gould shut down their office in Los Angeles due to what cause?	Description
+What is the core focus of splatterpunk literature?	Description
+What does the 401 K plan signify?	Description
+How is the process of purifying strontium conducted?	Description
+What is the process for obtaining the email address of someone else?	Description
+What does spamming entail?	Description
+What is the reason behind peanut butter cookies being decorated with intersecting lines?	Description
+How can my product obtain a license from the NBA?	Description
+When was the release of the initial Beanie Baby?	Description
+How do birds navigate back to their original location each year?	Description
+How does the LLM characterize Mr. Shimerda as fitting in effortlessly on the farm in My Antonia?	Description
+What advantages come from teaching kids in a home setting?	Description
+Can documents be transferred from one device to another?	Description
+How do insects obtain oxygen through their spiracles?	Description
+What qualifications need to be fulfilled to acquire Australian nationality?	Description
+What do mosquitoes contribute to?	Description
+What is the cause of the widespread use of the Windows 3 software created by Microsoft among its users?	Description
+How can someone figure out if they are genuinely in love with another person?	Description
+What sets apart a bottle from a jar?	Description
+What are the regulations for playing "snow golf"?	Description
+Is there evidence supporting the claim that indoor plants break down cancer-causing substances?	Description
+What is the final destination of discarded motor oil?	Description
+How is digital sound applied?	Description
+Did the Vietnam War come to an end?	Description
+What is recognized as an entrance?	Description
+What is referred to as a swatch?	Description
+What is classified as the deadrise in maritime language?	Description
+In which area of the body can the corpus callosum be found?	Entity
+What do the 10 plagues in Egypt consist of?	Entity
+What gift did the Chinese emperor present to the English soldier Gordon for his efforts in suppressing uprisings?	Entity
+What are the four components that constitute 90 percent of the human body?	Entity
+Which film showcased the protagonist's faithful companion, owned by Steven Spielberg, having a significant impact?	Entity
+Beany and Cecil set sail on a vessel named the boat.	Entity
+Can a phobia include a dread of hair?	Entity
+What kind of attire did the individuals of Bugs Moran's famous gangland massacre wear?	Entity
+What is the main language spoken in the Philippines?	Entity
+Implementing a strategy to enhance efficiency was carried out in bagels by the creative Simon Brothers Bakery of Chicago.	Entity
+What is a term that goes against the established norms of sexual morality in terms of conduct, looks, or communication?	Entity
+What is the term for a flock of geese when they assemble?	Entity
+What is the world's biggest serpent?	Entity
+Which language holds the record for the most extensive vocabulary?	Entity
+What space is located between Baltic Avenue and Reading Railroad on a Monopoly board where penalties are incurred?	Entity
+What was the title of the meeting in Crimea where Roosevelt, Churchill, and Stalin gathered?	Entity
+What is the traditional ritual to follow beneath the mistletoe during the festive period?	Entity
+In which sport can a pacer with uncontrolled legs participate?	Entity
+What is involved in the phobia of frogs?	Entity
+What kind of therapy seeks to provoke the deepest, most primitive yell?	Entity
+How did individuals freshen their breath before the invention of toothpaste?	Entity
+Beethoven's 9th symphony is well-known for what?	Entity
+Which non-fiction book was the top seller from 1952 to 1954?	Entity
+What is involved in having a phobia of parasites?	Entity
+Which beer is transparent when it's time to unwind?	Entity
+The primary flavor that reigns supreme is the cold taste.	Entity
+Experiencing a worldwide comeback in 1981, which silent movie premiered in 1927?	Entity
+What was the title of the most famous steamship constructed by Robert Fulton?	Entity
+What is the predominant color of houses in the United States?	Entity
+One of the most rebellious TV shows in American history was referred to as traditional children's programming by TV Guide writer Jeff Greenfield.	Entity
+Which important clash occurred in Belgium in 1815?	Entity
+What is the usual color of the bottles of premium Rhine wines?	Entity
+Which novel from Russia, taking place in the time of the Napoleonic Wars, features over 5 characters?	Entity
+Where are camels storing their humps?	Entity
+In the play by Tennessee Williams, a group of hungry kids murders and eats one of the characters.	Entity
+Are there any plants that deer can be cultivated to provide protection from?	Entity
+What emergency edicts did the German Nazis employ in 1933 to validate detaining adversaries and bestowing themselves with increased authority?	Entity
+What type of terror do reptiles experience?	Entity
+What is the definition of "BYOB"?	Expression
+What is the meaning of G.M.T.?	Expression
+What is the acronym for trinitrotoluene?	Expression
+What does LMDS involve?	Expression
+Which individual resides at 24 Sussex Drive in Ottawa?	Human
+The composer Gilbert and Sullivan were separated by the lyricist.	Human
+Who claimed they were preparing to head out and milk the elk?	Human
+Which team in the Marvel universe takes inspiration from the Avengers of America from DC?	Human
+What is the name of the writer of the book "The Iron Lady: A Biography of Margaret Thatcher"?	Human
+Which director portrayed the character of the leader overseeing the prisoner of war camp in the movie Stalag 17 released in 1953?	Human
+Who portrayed The Godfather in the movie?	Human
+In 1984, which actress became the first to receive an Academy Award for her depiction of a character of the opposite sex, who was 4 feet 9 inches in height?	Human
+Which individual is acknowledged as the creator of Central Park?	Human
+What company, first recognized for producing plastic toys that can fly, eventually transitioned to producing frozen desserts?	Human
+What is the title of the book by Maurice Zolotow that goes by Shooting Star?	Human
+Which leader was obeyed by the Muslim society?	Human
+Benjamin Franklin had a significant impact on the growth of the newspaper industry in the United States.	Human
+Which comic strip character met their end due to acne?	Human
+Which individual's cupboard lacked any provisions?	Human
+Identify a male ice skater.	Human
+What was the identity of William Henry Harrison?	Human
+Aircrafts constructed by experienced travelers for the airline industry.	Human
+Which President requested Gene Autry to send his greetings to his wife Dale?	Human
+Which Chilean figure perished during a coup in 1973?	Human
+The Ranger, who was always chasing after Yogi Bear, was known by a name.	Human
+A writer who received a Pulitzer Prize and campaigned for mayor of New York City was whom?	Human
+The true persona of the comic strip photographer is Peter Parker.	Human
+Which actress did Bette Davis want to look like?	Human
+Who was the lead actor in Singing in the Rain and The Singing Nun?	Human
+Did a driver from the United States win the 1978 world Grand Prix driving championship?	Human
+Is Amsterdam situated?	Location
+Which state in New England utilizes the telephone area code 27?	Location
+What is the name of the ocean that surrounds the Madeira Islands?	Location
+Where was the historical figure St. Nicholas situated?	Location
+What planet do the Ewoks call their native land?	Location
+Which American city features the Gateway Arch in its skyline?	Location
+Which attractions in Reims are worth seeing?	Location
+Can a perpetual calendar be viewed by the general public in any place?	Location
+What country lies to the north of Costa Rica's boundary?	Location
+What are the cities that have a reputation for being the priciest to reside in globally?	Location
+Is it possible to find the Union Stockyards?	Location
+Can I find any details about the novel "El Cid"?	Location
+What are the islands called that are named after the Spanish phrase baja mar, which refers to shallow water?	Location
+What is the country well-known for its Persian carpets?	Location
+What is the primary emphasis of safari in Kenya's East Africa region known for?	Location
+What is the location of the Keck telescope?	Location
+Adolf Hitler served as the chancellor of which nation?	Location
+How can I locate visual guidance for constructing a basic treehouse?	Location
+Which nations do the top math students come from?	Location
+Which brothers can be found in the constellation of Castor and Pollux?	Location
+Which city in South America is famous for its secluded Copacabana Beach and Ipanema?	Location
+Are there any materials available on Chiang Kai-shek that I can easily obtain?	Location
+Where can data and facts be located regarding countries and nations?	Location
+In which country does Edgar Allan Poe's The Pit and the Pendulum take place?	Location
+Which nation did the Allies attack in Operation Avalanche during the Second World War?	Location
+Which European nation ceased the use of postage stamps in 1923 because the expense of printing them exceeded their nominal worth?	Location
+German born adventurer Freidreich Wilhelm Ludwig Leichhardt, where did he attend university at?	Location
+What is the main location where most dinosaur fossils have been found?	Location
+What is the current biggest and costliest freeway building endeavor in the United States?	Location
+What is a location where I can locate a stage for engaging with a specialist?	Location
+Which Caribbean island is located to the east of Trinidad?	Location
+Which North American location should you visit in order to view Cleopatra's Obelisk?	Location
+When was the completion of the construction of the Hoover Dam?	Number
+Stevie Wonder's contract with Motown Records was established in what year?	Number
+What was the value of Joe Namath's initial deal?	Number
+What is the calorie content of soy sauce?	Number
+When did CNN begin airing?	Number
+What is the total population living in Tucson?	Number
+How many designations are used for Eskimo people?	Number
+What level of power do the boosters on the shuttle have?	Number
+What was the starting point for the minimum wage?	Number
+What amount of folic acid is advised for pregnant women on a daily basis?	Number
+What information do the unemployment rates in 1965 and 1990 indicate?	Number
+What was the number of votes that opposed in Congress from the declaration of war with Japan in 1941?	Number
+When did Yemen become one country?	Number
+What is the total number of bones in the human hand?	Number
+What is the amount of caffeine in a 16 oz coffee cup in milligrams?	Number
+What was the most recent eruption of Vesuvius?	Number
+Were a large number of men killed during the building of the Mackinaw Bridge?	Number
+How many years did Gene Siskel reside for?	Number
+What is the distance between the neighboring pins in tenpin bowling, in inches?	Number
+What amount of tablespoons is necessary to create a teaspoon?	Number
+Are there a lot of stars in the Big Dipper?	Number
+Are there numerous kinds of apple varieties?	Number
+What is the operational frequency of a 45Mhz processor?	Number
+What is the true size of the cosmos?	Number
+What is Bernadette Peters' age?	Number
+What is the mass of a spoonful of substance within a dim crevice?	Number
+What year did the film "Jaws" come out in theaters?	Number
+How many occasions did Warren Spahn fall short of achieving the milestone of being a 20-game winner during his 21 years in Major League Baseball?	Number
+What dimension is typically observed in the genitalia of a 15-year-old male?	Number
+What is the minimum amount of time you have to live in a neighborhood before you can participate in the voting process?	Number
+How much time does it require for your blood to travel around your entire body during a full journey?	Number
+Did the inception of quilting take place?	Number
+How much is the exchange rate for 8 pounds in the U.K. to U.S. dollars?	Number
+Which phone number is associated with Columbia Tristar?	Number
+What is the total number of colored squares on a Rubik's Cube?	Number
+When did CNN commence airing?	Number
+What is the shuttle boosters' power capacity?	Number
+When was the ambassadors of Spain and Korea first establish diplomatic ties?	Number
+What was the duration it took for Stanley to find Livingstone?	Number
+On which date did Princess Diana and Prince Charles tie the knot?	Number
+What is the equivalent distance in kilometers to one acre?	Number
+What is the number of participants receiving cards in Gin Rummy?	Number
+When is the ideal time to sow seeds for winter wheat?	Number
+How much space in cubic feet does a gallon of water take up?	Number
+The era that saw the flourishing of Rococo painting and architecture was when?	Number

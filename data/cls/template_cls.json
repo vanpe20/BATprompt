@@ -1,0 +1,31 @@
+{
+    "instruction": {
+        "opt": "Instruction: <prompt>"},
+    "cls": {
+            "sst2": [
+                "Input: <input>\nOutput: <output>",
+                "Input: one of the year 's best films , featuring an oscar-worthy performance by julianne moore .\nOutput: positive\n\nInput: it 's just merely very bad .\nOutput: negative\n\nInput: <input>\nOutput: "
+            ],
+            "cr": [
+                "Input: <input>\nOutput: <output>",
+                "Input: great phone , i 'd buy another .\nOutput: positive\n\nInput: this product is absolutely not ready for release .\nOutput: negative\n\nInput: <input>\nOutput: "
+            ],
+            "mr": [
+                "Input: <input>\nOutput: <output>",
+                "Input: wise and deadpan humorous .\nOutput: positive\n\nInput: shamelessly sappy and , worse , runs away from its own provocative theme .\nOutput: negative\n\nInput: <input>\nOutput: "
+            ],
+            "sst-5": [
+                "Input: <input>\nOutput: <output>",
+                "Input: the heavy-handed film is almost laughable as a consequence .\nOutput: terrible\n\nInput: movie fans , get ready to take off ... the other direction .\nOutput: bad\n\nInput: a movie that hovers somewhere between an acute character study and a trite power struggle .\nOutput: okay\n\nInput: escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie .\nOutput: good\n\nInput: seldom has a movie so closely matched the spirit of a man and his work .\nOutput: great\n\nInput: <input>\nOutput: "
+            ],
+            "agnews": [
+                "Input: <input>\nOutput: <output>",
+                "Input: Arafat expulsion has never been closer: Israeli FM JERUSALEM - Foreign Minister Silvan Shalom said Thursday that Israel had never been closer to expelling veteran Palestinian leader Yasser Arafat from his West Bank headquarters.\nOutput: World\n\nInput: Two US runners reach 100 hurdles final ATHENS, Greece - World champion Perdita Felicien and two United States runners reached the final of the 100-meter hurdles Monday, an event that lost Gail Devers to injury a day earlier.\nOutput: Sports\n\nInput: U.S., EU Spar Over Airbus, Boeing Aid  WASHINGTON (Reuters) - The United States and Europe on  Wednesday filed tit-for-tat World Trade Organization complaints  over billions of dollars in subsidies for top aircraft  manufacturers Airbus and Boeing.\nOutput: Business\n\nInput: Veritas buys KVault Software in \\$225M deal Storage and backup application vendor Veritas Software Corp. is acquiring e-mail archiving vendor KVault Software Ltd. (KVS) to bolster its offerings to customers.\nOutput: Tech\n\nInput: <input>\nOutput: "
+            ],
+            "trec": [
+                "Input: <input>\nOutput: <output>",
+                "Input: What made Jane Goodall famous ?\nOutput: Decription\n\nInput: Which sex is denied voting rights in Kuwait ?\nOutput: Entity\n\nInput: What does RCA stand for ?\nOutput: Expression\n\nInput: Who was Lacan ?\nOutput: Human\n\nInput: What attracts tourists to Reims ?\nOutput: Location\n\nInput: What is the gestation period for human pregnancies ?\nOutput: Number\n\nInput: <input>\nOutput: "
+            ]
+                 
+        }
+}

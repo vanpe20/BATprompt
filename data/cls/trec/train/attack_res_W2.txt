@@ -1,0 +1,1000 @@
+What station did Mary work for?	Entity
+Which produces longer sperm - an elephant or a mouse?	Entity
+What are John C. Calhoun and Henry Clay known as?	Entity
+What format was VHS's main competition?	Entity
+What weapon is the mythological character Apollo proficient with?	Entity
+What film ends with the line: "This is Mrs. Maine"?	Entity
+Which mosquito's bite draws blood, DT NN CC DT NN.	Entity
+What is the correct way to use ``may'' vs. ``might''?	Entity
+What tale has the moral: "He who wants everything gets nothing"?	Entity
+What is a word whose letters can be rearranged to form a different word?	Entity
+Which soft drink has its own video game and was in a Marvel comic book?	Entity
+What race is 1,137 miles long?	Entity
+What is one language spoken by the Sioux called?	Entity
+What do the French call Manche?	Entity
+Which comic book was not spawned from pulp?	Entity
+What were the trials called that followed World War II?	Entity
+What does a phobophobe fear?	Entity
+What is the name of a language spoken by the Sioux?	Entity
+What is the green variety of beryl called?	Entity
+What war was fought by the Spanish in the Philippines?	Entity
+Aspartame is known by what other name?	Entity
+What is the name of the American literary era that includes 1896?	Entity
+What is the name of the largest water project in China?	Entity
+What is fear of motion?	Entity
+What album put The Beatles on Time's cover in 1967?	Entity
+What book opens: ``At a village in La Mancha, which I shall not name...''?	Entity
+What walks on four legs, then on two, then on three?	Entity
+What two body parts grow life?	Entity
+What was a California prayer book to an Old West gambler?	Entity
+Which is a real berry: blackberry, cranberry, raspberry, strawberry?	Entity
+What kind of team is the Wisconsin Badgers?	Entity
+What sport features slotbacks, tailbacks, and touchbacks?	Entity
+What does `` B.Y.O.B. '' mean?	Expression
+What does G.M.T. stand for?	Expression
+What is the abbreviation for trinitrotoluene?	Expression
+What is LMDS?	Expression
+What does U.S.S.R. stand for?	Expression
+What is the acronym for the National Bureau of Investigation?	Expression
+What does IBM mean?	Expression
+What does e.g. mean?	Expression
+What is a "USB" port on a computer?	Expression
+Who lives at 24 Sussex Drive, Ottawa?	Human
+Who was the lyricist and composer between Gilbert and Sullivan?	Human
+Who declared: "I think I'll go milk the elk"?	Human
+Name the Marvel team loosely based on DC's Justice League?	Human
+Who is the author of "The Iron Lady: A Biography of Margaret Thatcher"?	Human
+What director portrayed the commandant of the POW camp in 1953's Stalag 17?	Human
+Who played the Godfather in 'The Godfather'?	Human
+What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex?	Human
+Who was the architect of Central Park?	Human
+Which company started making pies and ended up manufacturing plastic toys?	Human
+Whose biography by Maurice Zolotow is titled Shooting Star?	Human
+Who was the prophet of Muslims?	Human
+What role did Benjamin Franklin play in the development of newspapers in America?	Human
+What comic strip character died of acne?	Human
+Whose cupboard was bare?	Human
+Name a skater.	Human
+Who was William Harrison?	Human
+What is "the airline for professionals"?	Human
+Which President told Gene Autry: "Please give my regards to your wife Dale"?	Human
+Which Chilean president was killed in a 1973 coup?	Human
+Name the Ranger after Yogi Bear.	Human
+Which Pulitzer Prize-winning novelist ran for mayor of New York?	Human
+What is comic strip photographer Peter Parker's identity?	Human
+Who is the actress Bette Davis wished to look like?	Human
+Who starred in Singing in the Rain and The Singing Nun?	Human
+Who won the 1978 Grand Prix championship?	Human
+Who kept the most famous diary in English?	Human
+Who directed ``Jaws''?	Human
+What businesses in Alaska were affected by the Exxon Valdez oil spill?	Human
+Who led the opposition when Adenauer was Chancellor in Germany?	Human
+Who claimed to be the world's most perfectly developed man?	Human
+What suburban housewife and mother of three wrote The Feminine Mystique?	Human
+Which college produced the most Super Bowl quarterbacks?	Human
+Who received an honorary degree from Northwestern?	Human
+Which painter popularized soup cans and Brillo boxes?	Human
+What school does Tom attend in Tom Brown's School Days?	Human
+Who reports the weather on "Good Morning America"?	Human
+Who asked: "Have you ever been to Electric Ladyland?"	Human
+What is the best Internet business to enter?	Human
+Who was Thucydides?	Human
+What organization did Mr. Waverly assign agents for?	Human
+Who is the director and editor of the movie Big starring Tom Hanks?	Human
+Who was President of Costa Rica in 1994?	Human
+Who did Sara Jane Moore try to assassinate?	Human
+Who started Domino's?	Human
+What is the name of Miss India 1994?	Human
+Who plays the cop in ``Kindergarten Cop''?	Human
+Who is the First Lady of Stage?	Human
+Which singer became despondent over Freddie Prinze's death, quit show business, and left the industry?	Human
+Who did Dita Beard work for?	Human
+Who is Karenna Gore, Al Gore's oldest daughter, married to?	Human
+Who painted ``Soft Self-Portrait with Grilled Bacon''?	Human
+Who runs Andy Capp's pub?	Human
+Who was the first Russian astronaut to walk in space?	Human
+Name the scar-faced bounty hunter of the West.	Human
+What's the name of Popeye's son?	Human
+Name the daughters of John Mills.	Human
+Who does Uncle Duke's girlfriend Honey room with?	Human
+Who gave Arthur the table?	Human
+Name a band famous in the 1960s.	Human
+What was the name of the cook on Rawhide?	Human
+Which university fired Angela Davis?	Human
+Woodrow Wilson served as president of what university?	Human
+Who is Marbella's mayor?	Human
+Who invented bowling?	Human
+Where is Amsterdam?	Location
+Which New England state has the area code 27?	Location
+What ocean surrounds Madeira?	Location
+Where did the real St. Nicholas live?	Location
+What is the name of the planet the Ewoks live on?	Location
+Which U.S. city’s skyline features the Gateway Arch?	Location
+What is worth seeing in Reims?	Location
+Where can I find a perpetual calendar?	Location
+What country is north of Costa Rica?	Location
+What are the five most expensive cities in the world?	Location
+Where are the Stockyards?	Location
+Where is information on the novel "El Cid"?	Location
+Which islands got their name from the Spanish baja mar, meaning shallow water?	Location
+Which country is famous for rugs?	Location
+What Kenyan city is the safari center for East Africa?	Location
+Where is the Keck telescope?	Location
+What country was Hitler chancellor of?	Location
+Where can I find directions to build a treehouse?	Location
+Which countries have the best math students?	Location
+Which constellation contains the twins Castor and Pollux?	Location
+Which South American city has Copacabana and Ipanema?	Location
+Where can I read about Chiang Kai-shek?	Location
+Where can I get information and statistics on countries?	Location
+What country is the setting for Poe's The Pit and Pendulum?	Location
+Which country did the Allies invade in World War II's Operation Avalanche?	Location
+Which European country abandoned postage stamps in 1923 because printing cost more than their value?	Location
+Where did Friedrich Wilhelm Ludwig Leichhardt, Prussian explorer, go to school?	Location
+Where have the most dinosaur remains been found?	Location
+What is the largest and most expensive freeway construction project in the U.S. right now?	Location
+Where can I find an Ask An Expert site?	Location
+Which Caribbean island is northeast of Trinidad?	Location
+Which North American city would you visit to see Cleopatra's Needle?	Location
+Which state has the most Indians?	Location
+Which country will hit year 2 first?	Location
+What mountainous region is the Lhasa Apso native to?	Location
+What is the capital of California?	Location
+Where was "I have fallen, and I can't get up" said first?	Location
+Which state covers 49,576 square miles?	Location
+What city is the kickoff point for Everest climbs?	Location
+What is the highest peak?	Location
+Where are Eli Lilly's headquarters?	Location
+What is the largest U.S. state east of the Mississippi?	Location
+What state is Niagara Falls?	Location
+What river is Pocahontas buried?	Location
+What was the highest mountain on earth before Everest was discovered?	Location
+What is the nickname for Mississippi?	Location
+Which two countries share the Khyber Pass?	Location
+Where does most marijuana entering the U.S. come from?	Location
+What mountain range is crossed by the highest railroad in the world?	Location
+Which Southeast Asian country has the Wang River joining the Ping River at Tak?	Location
+What country was Erich Honecker the leader of?	Location
+Where are diamonds mined?	Location
+What river is Windsor Castle on?	Location
+Which area produces the least acidic coffee?	Location
+Which North American city has the most meters?	Location
+Where does opera singer Ileana Cotrubas come from?	Location
+What canal does the Thatcher Ferry Bridge span?	Location
+What is the greatest hiking site?	Location
+What Scandinavian capital is built on nine bridge-connected islands?	Location
+Where in the Bible are Jesus' brothers and sisters mentioned?	Location
+What were the first bodies visited by spacecraft?	Location
+What is the best place to live in the world, considering climate and civilization?	Location
+What continent appears in the upper left corner of a Budweiser label?	Location
+Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place?	Location
+Which country would you visit to ski in the Dolomites?	Location
+What is George Lucas's email?	Location
+Which country first used the airplane as a weapon of war against the Turks in Libya?	Location
+What is the largest county in size in Massachusetts?	Location
+Which continent has the most roses?	Location
+What's the world's largest cathedral?	Location
+What city is the Kentucky Horse Park near?	Location
+Where is Webster University?	Location
+Where is Burma?	Location
+What country did King Gustav V reign over from 197 to 195?	Location
+Where did Sarge Steel get his metal hand?	Location
+What river was Hernando de Soto the first European to see?	Location
+Which Great Lake is entirely within U.S. territory?	Location
+Where can I find the full draft of the CTBT?	Location
+Where did Gulliver find tiny people?	Location
+What erupts every hour at Yellowstone?	Location
+Where is Kentucky Horse Park?	Location
+When was the Hoover Dam built?	Number
+How old was Stevie Wonder when he signed with Motown?	Number
+What was Joe Namath's first contract worth?	Number
+How many calories are in soy sauce?	Number
+CNN began broadcasting in what year?	Number
+How many people in Tucson?	Number
+How many names are there for Eskimo people?	Number
+What is the horsepower of shuttle boosters?	Number
+What was the first minimum wage?	Number
+How much folic acid should an expectant mother get daily?	Number
+What are the unemployment statistics for 1965 and 1990?	Number
+How many votes in Congress dissented from the 1941 declaration of war with Japan?	Number
+When was Yemen reunified?	Number
+How many bones are in the hand?	Number
+How much caffeine is in a 16 oz cup of coffee?	Number
+When did Vesuvius last erupt?	Number
+How many men died building the Mackinaw Bridge?	Number
+How old was Siskel?	Number
+How many inches are adjacent pins in bowling?	Number
+How many teaspoons are in a tablespoon?	Number
+How many stars are in the Big Dipper?	Number
+How many varieties of apples are there?	Number
+How fast is a 45MHz processor?	Number
+How big is the universe?	Number
+How old is Bernadette?	Number
+What is the weight of a teaspoon of matter in a black hole?	Number
+The film "Jaws" was made in what year?	Number
+How many times was pitcher Warren Spahn a 20-game winner in 21 seasons?	Number
+What is a normal size penis for a 15-year-old?	Number
+How long must you live in a community to vote?	Number
+How long does it take for blood to make one trip through the body?	Number
+When did quilting begin?	Number
+What’s the American equivalent for 8 pounds in the U.K.?	Number
+What is Columbia Tristar's phone number?	Number
+How many colored squares are on a Rubik's Cube?	Number
+When did CNN begin broadcasting?	Number
+What is the horsepower of shuttle boosters?	Number
+When did Spain and Korea start relations?	Number
+How long did it take Stanley to find Livingstone?	Number
+When did Princess Diana and Prince Charles marry?	Number
+How many acres in a mile?	Number
+How many cards are dealt to each player in Gin Rummy?	Number
+When do you plant winter wheat?	Number
+How many cubic feet does a gallon of water occupy?	Number
+When did Rococo painting and architecture flourish?	Number
+What was the date of Iraq's invasion of Kuwait?	Number
+How many mines remain in the Falklands after the war?	Number
+What are the chances of pregnancy if the penis does not penetrate the vagina?	Number
+How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992?	Number
+When was John D. Rockefeller born?	Number
+How big is the Chappellet vineyard?	Number
+How many websites are in the world?	Number
+What season is the setting for Shakespeare's Midsummer Night's Dream?	Number
+How many Beatles records went #1?	Number
+How many equal angles are in an isosceles triangle?	Number
+How many people does Honda employ in the U.S.?	Number
+How much did the Iran-Contra investigation cost?	Number
+How many referees work a soccer game?	Number
+How many lakes are on Earth?	Number
+What is the average cost for four years of medical school?	Number
+How many quarts of milk are needed to make one pound of butter?	Number
+What is the exchange rate for Australian to American money?	Number
+How many questions do you have in your database?	Number
+What is the Fahrenheit equivalent of zero centigrade?	Number
+How much can a person be fined for having a dog on a beach?	Number
+How many years ago did Led Zeppelin release its last album?	Number
+How many American soldiers remain unaccounted from the Vietnam war?	Number
+How many years are in a lustrum?	Number
+How much did a McDonald's hamburger cost in 1963?	Number
+How many family members could be drafted in the U.S. military during World War II?	Number
+When was Calypso music invented?	Number
+What is the time for a typist to type a 100-page screenplay?	Number
+How old is too old for a child not to be talking?	Number
+In what year was De Gaulle elected president of France?	Number
+How many students attend the University of Massachusetts?	Number
+When did the Carolingian period begin?	Number
+When did Mount St. Helens last have a major eruption?	Number
+What percentage of silver production is from independent silversmiths?	Number
+How many American soldiers died for their country?	Number
+When was the NFL created?	Number
+When does the Bible say seasons started?	Number
+What month did Fitzgerald sink?	Number
+When was Berlin's Brandenburg Gate built?	Number
+How big is our galaxy's diameter?	Number
+How many months does human pregnancy last?	Number
+How long do hermit crabs live?	Number
+How many types of twins are there?	Number
+How long do cardinal eggs incubate?	Number
+How many people watch TV?	Number
+When was Hurricane Hugo?	Number
+In what year was the first patent for the pull-tab opener on cans obtained?	Number
+When is the Sun closest to Earth?	Number
+When did the original Howdy Doody show go off air?	Number
+When was Dick Clark born?	Number
+What is Boxing Day?	Number
+When was Beethoven born?	Number
+How often are brain cells replaced?	Number
+When was Christ born?	Number
+What geological time do we live in?	Number
+What percentage of children aged two to eleven watch "The Simpsons"?	Number
+What is the cooking temperature?	Number
+What was the target rate for M3 growth in 1992?	Number
+When was Babe Ruth born?	Number
+How old is the sun?	Number
+When did Pangaea break up?	Number
+How many characters make up a word for typing tests?	Number
+What is Dick Clark's birthday?	Number
+How long does the moon revolve around Earth?	Number
+How many letters appear with the numbers 2 to 9 on a telephone dial?	Number
+When did Gothic art and architecture flourish?	Number
+How many dogs pull a sled in the Iditarod?	Number
+How much money did Philippine ex-dictator Marcos steal from the treasury?	Number
+How many soldiers died in WWII?	Number
+What does Elysium mean?	Description
+Why did the Globe Theatre burn down?	Description
+How does the tail affect the flight of a kite?	Description
+How can anyone tell if a female had intercourse?	Description
+What is cunnilingus?	Description
+What is dextropropoxyphen napsylate?	Description
+How can I trace my family roots?	Description
+What is "cat scratch fever"?	Description
+What is the history of the hairdryer?	Description
+What happened in the Long March?	Description
+What was the verdict in the trial of Lizzie Borden?	Description
+What is chromatology?	Description
+What is the difference between microprocessors and microcontrollers?	Description
+What baseball expression came from the nautical term for ships sailing between the Atlantic and Pacific before the Panama Canal?	Description
+Why are lions called "King of the Jungle"?	Description
+What causes canker sores in the mouth?	Description
+What are Fortune 500 companies?	Description
+What is the origin of ``jiggy'' as in getting jiggy with it?	Description
+What will a compass do in space?	Description
+What is swap math?	Description
+What is Compaq's mission?	Description
+How is strontium purified?	Description
+What is a "repeating voter"?	Description
+Why did San Diego schools remove apples from menus?	Description
+Why must a woman be a virgin to be a nun?	Description
+What is the meaning of caliente?	Description
+What are some children's rights?	Description
+What is osmosis?	Description
+How does a glacier form?	Description
+What is saltpeter?	Description
+What do you need to marry someone in jail?	Description
+What is e-commerce?	Description
+What is deadrise, nautical?	Description
+What is a Mexican hairless?	Description
+What is the meaning of the name Kathryn?	Description
+How does a hydroelectric dam work?	Description
+What is the AIM-54C Phoenix?	Description
+What are the seven deadly sins?	Description
+What was the Long March in China?	Description
+How can you define time?	Description
+What are bear and bull markets?	Description
+How does Belle describe her life in Beauty and the Beast?	Description
+What is the origin of the word, JJ?	Description
+Why do pharmacists work on raised floors?	Description
+What are the short- and long-term effects of underage drinking?	Description
+Why do people shake hands to show friendliness?	Description
+What is Franz Kafka's short story "A Country Doctor" trying to tell us?	Description
+How do you create a bibliography page?	Description
+What is the biblical meaning of `stones'?	Description
+What is Toulmin logic?	Description
+Why do airliners crash vs. glide down?	Description
+What else has the swastika stood for?	Description
+Why do light bulbs go out?	Description
+How did the months of the year get their names?	Description
+Why is the universe flat? If it started by an explosion, shouldn't it be a sphere?	Description
+What is paracetamol?	Description
+How do you get rid of woodpeckers?	Description
+How do I tie a tie?	Description
+How do they choose witnesses for an execution?	Description
+How do you find out what is allowed to claim as a contribution for income tax purposes?	Description
+Where did the term "86" come from?	Description
+How does an abacus work?	Description
+What are the medical purposes of clitoridectomy?	Description
+What is molybdenum?	Description
+What is the design of the Titanic?	Description
+How does the speed of the magnet in a generator affect output?	Description
+What is SED rate?	Description
+What is the difference between a fruit and a vegetable?	Description
+What can I do to get into an Ivy League school?	Description
+What is digitalis?	Description
+Why did David Koresh ask the FBI for a word processor?	Description
+What is the Hub of London?	Description
+Shea and Gould closed their Los Angeles office for what reason?	Description
+How do you throw a housewarming party?	Description
+How does a small businessman contact Good Humor Ice Cream to do business?	Description
+What are the major differences between Catholic and Methodist religions?	Description
+What is Butterfield 8 in Butterfield 8?	Description
+How do you select wine?	Description
+What is white chocolate?	Description
+What is the history of skateboarding?	Description
+What happened during the Blackhawk War of 1832?	Description
+How do you fix squeaky floors?	Description
+Define Sinn Fein.	Description
+How can I get free technical information on Electric Vehicles?	Description
+What is the origin of U.S. Army sergeant stripes?	Description
+Where did the marriage ceremony come from?	Description
+What is fiber in food?	Description
+What makes hamburgers taste like steakburgers?	Description
+What is Jane Goodall famous for?	Description
+What is a urologist?	Description
+Where did the saying "rule of thumb" come from?	Description
+What was Suzy Parker doing to earn $1,000 in the 1950s?	Description
+Why do chickenpox last long?	Description
+Why is Thanksgiving on Thursday?	Description
+What is the origin of the atom?	Description
+How does rabies spread?	Description
+What was a Mae West on a World War II battleship?	Description
+How do you buy stocks?	Description
+What's the Olympic motto?	Description
+How is Easter Sunday date determined?	Description
+What does storm wave mean in Japanese?	Description
+How did the bikini get its name?	Description
+What should you yell to hail a taxi in Madrid?	Description
+What do pointed letters mean to a handwriting analyst?	Description
+What does ``Rupee Depreciates'' mean?	Description
+How do they get Teflon to stick to the pan?	Description
+How does Cos Cob, CT get its name?	Description
+What is Cabernet Sauvignon?	Description
+How can I look up someone's email on the Internet?	Description
+How is silk screening done?	Description
+What is office automation?	Description
+What is the purpose of the SysRq key on my keyboard?	Description
+What is a gas release event?	Description
+Where did the name root beer come from?	Description
+What is the meaning of Jesus?	Description
+How do I install a tile floor?	Description
+What is Candlemas?	Description
+How is a hydrogen bomb different from a nuclear bomb?	Description
+What happened to Pepsi Clear?	Description
+How is water treated to make it safe to drink?	Description
+What problems contributed to the high failure rate of Plains farmers in the 1800s?	Description
+What is an auberge in France?	Description
+What is PLC?	Description
+What is the filmmakers' collaboration?	Description
+What are boxcars?	Description
+What is literary criticism?	Description
+What is the origin of the word Ozymandias?	Description
+What is the origin of the name Katie?	Description
+How do I find info about rice importers worldwide?	Description
+What is the Kashmir issue?	Description
+What do you do when your mouse isn't working as fast as supposed?	Description
+What is a tonne?	Description
+How can I find a list of fax and email addresses for human resources in Massachusetts?	Description
+What does the Greek word polis mean, as in Minneapolis?	Description
+How was Kennedy money made?	Description
+Why does a doughnut have a hole?	Description
+What do bee hives do in cranberry bogs?	Description
+How do ants mate?	Description
+What is the only modern language that capitalizes its singular first-person pronoun?	Entity
+What whisky is `` known by the company it keeps ''?	Entity
+What disease did August von Wassermann develop a test for in 196?	Entity
+What war saw battles at Parrot's Beak and Black Virgin?	Entity
+Name a product that controls apple ripening.	Entity
+What is the smallest thing seen under the most powerful microscope, and how big is it?	Entity
+What is "the bear of beers"?	Entity
+Which operating system is on the most computers?	Entity
+What are the 7 articles of the constitution?	Entity
+Which dog is buried in Pere-Lachaise cemetery in Paris?	Entity
+What is the name of a golf course in Myrtle Beach?	Entity
+A corgi is a type of?	Entity
+What is a fear of thunder?	Entity
+What letter appears on the cold tap in Spain?	Entity
+What color Poker chip is assigned the lowest value?	Entity
+What ability has the silkworm moth lost through domestication?	Entity
+In what book can I find the story of Aladdin?	Entity
+Which song put James Taylor in the spotlight?	Entity
+What does Visine get out?	Entity
+What is a fear of children?	Entity
+What does saliva consist of?	Entity
+What is kept in Fort Knox that is so valuable?	Entity
+What are two plants that clothes are made from?	Entity
+What class is the bourgeoisie?	Entity
+What livestock have the greatest variety of breeds?	Entity
+What is the fear of night or darkness?	Entity
+What does a chef coddle eggs in?	Entity
+What education do I need to become a flight attendant?	Entity
+What was the name of the ball game played by the Mayans?	Entity
+What overalls are named for Dungri, a suburb of Bombay?	Entity
+Who were John F. Kennedy's dogs?	Entity
+What color is "ash"?	Entity
+Which two products use a tiger as their symbol?	Entity
+What does a topophobic actor suffer from?	Entity
+What is the procedure for drilling a hole in your skull to achieve higher consciousness?	Entity
+What is the correct way to use "may" vs. "might"?	Entity
+What was the name of the computer in '2001: A Space Odyssey'?	Entity
+What five-time Kentucky Derby winner lost his first 25 races?	Entity
+What weapon is the mythological character Apollo most proficient with?	Entity
+What was the eighth day after the Nones in each month of the Roman calendar called?	Entity
+What's bottled in jeroboams?	Entity
+What color of dry wine should be served with veal roasts and chops?	Entity
+What are the rites accompanying the circumcision of a newborn in Judaism called?	Entity
+What plants are found in estuaries?	Entity
+What is the best way to travel in Japan?	Entity
+What's the green variety of beryl called?	Entity
+What hide-and-seek game is played around a can?	Entity
+What do chefs call Master Spice?	Entity
+What product features a frog that says "dig 'em"?	Entity
+What new games are available for Nintendo 64?	Entity
+What film was Jude Law in?	Entity
+What foods contain vitamin B12?	Entity
+What English word contains the most letters?	Entity
+What guitar did Hendrix play?	Entity
+What is used to detect birth defects?	Entity
+Name the vessel used by Atari Force in DC comics.	Entity
+What was the name of the ``Little Rascals'' dog?	Entity
+What newspaper will `` help you see clearer across USA ''?	Entity
+What medium is Stuart Hamblen the first singing cowboy in?	Entity
+In the Miller Lite commercial, who is the creature?	Entity
+Which Kennedy was married to Ethel?	Entity
+In what religion was Isis a goddess?	Entity
+What George Harrison tune sounded too much like He's So Fine by The Chiffons?	Entity
+What is a good book for people who hate reading?	Entity
+What was the name of Hitler's failed attempt to overthrow the Bavarian government in Munich in 1923?	Entity
+Which rocket launched the Surveyor?	Entity
+What is the term for a group of geese?	Entity
+Where does your hair grow fastest?	Entity
+What alloy do copper and tin form?	Entity
+What’s ruined many boys in New Orleans?	Entity
+What two animals are mentioned in Noah's Ark?	Entity
+What station did Mary work for?	Entity
+What poem contains the line, "grow old with me the best yet to be"?	Entity
+Which Shakespearean play featured Shylock?	Entity
+What are the snakes of New England?	Entity
+What colors make a rainbow?	Entity
+What is the best-selling computer model?	Entity
+What were Richard Nixon's achievements?	Entity
+What chocolate bar created by Frank Mars and his wife is often called a Milky Way with peanuts?	Entity
+What is the most famous German word in English?	Entity
+What kind of suit did hepcats wear in 1942?	Entity
+What crop failure caused the Irish Famine?	Entity
+What is Ray Bradbury's Illustrated Man illustrated with?	Entity
+What does an ashen-faced eidologist search for?	Entity
+What chemical in red wine is good for the heart and what does it do to your body?	Entity
+What is the main ingredient of yogurt?	Entity
+What do opposite faces of a die add up to?	Entity
+What is the largest clock diameter in Europe?	Entity
+What D.H. Lawrence novel was originally titled Tenderness?	Entity
+What is money made of?	Entity
+What is an infant seal called?	Entity
+What animal has killed the most people?	Entity
+What did Benny play?	Entity
+What’s the term for an organism that lives on or in another?	Entity
+What does NAFTA mean?	Expression
+What does S.O.S. stand for?	Expression
+What does IOC mean?	Expression
+What do the letters D.C. stand for in Washington, D.C.?	Expression
+What is DEET?	Expression
+What is the acronym for the National Bureau of Investigation?	Expression
+In a computer, what does SCSI mean?	Expression
+What is the abbreviation for Original Equipment Manufacturer?	Expression
+What does BMW stand for?	Expression
+Who was the star witness at the Watergate hearings?	Human
+Who shot himself painting Wheatfield with Crows?	Human
+Which housewife and mother of three wrote The Feminine Mystique?	Human
+What are the first names of Rowan and Martin, stars of Laugh-In?	Human
+Which Japanese car maker had its biggest percentage of sales in the domestic market?	Human
+What is Michael Jackson's middle name?	Human
+What was the business of Sky Hawks?	Human
+Which journalist is in Walden Puddle?	Human
+Which cruise line does Kathie Lee Gifford advertise for?	Human
+Who made the largest cocaine seizure in Ventura?	Human
+Who won the Cup?	Human
+Who was the oldest president?	Human
+Name the five positions in the succession to the presidency.	Human
+What is the last name of Lucy and Linus from Peanuts?	Human
+What was American folk hero John Chapman's nickname?	Human
+Which appointments secretary to Richard Nixon went to jail?	Human
+Who is the mathematician that won the Nobel Prize for Literature in 1950?	Human
+Who is Desmond Tutu?	Human
+Which famous person does not paint as a hobby?	Human
+Who first portrayed Bond?	Human
+Who collects data in tourism?	Human
+Which English physician was born January 18, 1779 and created two important inventions?	Human
+Who made Stonehenge?	Human
+What radio station did Paul Harvey work for?	Human
+Who wrote The Red Badge of Courage?	Human
+What cigar-chewing comedian observed: "You're only as old as the woman you feel"?	Human
+Who portrayed Fatman in "Jake and the Fatman"?	Human
+Name Dick Tracy's kids.	Human
+What is the name of the firm that makes Spumante?	Human
+Who is Paganini?	Human
+Who was Charles Lindbergh's wife?	Human
+What was the name of the first Watergate special prosecutor fired by Nixon?	Human
+Which commanders directed the forces in the Battle of El Alamein?	Human
+Who invented the toothbrush?	Human
+What Argentine boxer was shot dead outside a Nevada brothel in May?	Human
+Which singing cowboy owns the Angels?	Human
+What is a person called who likes fire?	Human
+Which Honeymooners actress did Television magazine name as 1953's most promising star?	Human
+Who directed the first Woody Woodpecker cartoon?	Human
+Which actor was the first man to appear on the cover of McCall's?	Human
+Who is the sexiest woman in the world?	Human
+What organization has a Security Council?	Human
+Who was the author of the novel ``Far From the Madding Crowd''?	Human
+Who played Sally Rogers on The Dick Van Dyke Show?	Human
+What was the name of Titanic's captain?	Human
+Who was the lawyer for Randy Craft?	Human
+What are the players eligible to score points in Roller Derby called?	Human
+Who designed London Bridge?	Human
+Which relative of Leo Tolstoy translated War and Peace eight times?	Human
+Which Polynesian people inhabit New Zealand?	Human
+Who was the Charlie perfume woman?	Human
+Which baseball team owner and sailor is known as The Mouth of South?	Human
+Who created Big Ben?	Human
+What title did Suzette Charles assume for two months in 1984?	Human
+Which Japanese manufacturer is known for pianos and motorcycles?	Human
+Who invented Silly Putty?	Human
+What comic from TV's golden age had the motto "Anything for a laugh"?	Human
+What is the Viking Prince's first name?	Human
+Who discovered imaginary numbers?	Human
+Who created the Fantastic Four, Hulk, and Thor?	Human
+What role did John Peter Zenger play in the development of newspapers in America?	Human
+What was the real name of writer Ross Macdonald, creator of Lew Archer?	Human
+Who was the author of "John Brown's Body"?	Human
+Which Indian tribe is F Troop battling?	Human
+Which player was known as Hustle?	Human
+Where did Gulliver find tiny people?	Location
+What desert has been called The Garden of Allah?	Location
+Where do lobsters live?	Location
+Which country in 1998 had the most suicides regardless of population?	Location
+What county is Eckley, Colorado?	Location
+Where's Montenegro?	Location
+What country are you in if you woo in the Wu dialect?	Location
+What ocean surrounds the Maldives?	Location
+Where does Buzz Aldrin want to build a permanent space station?	Location
+What are the top 5 tallest buildings in the world?	Location
+Which country has Cawdor, Glamis, and Blair Castle?	Location
+What state in the United States covers the largest area?	Location
+Where in the Americas is it 47 miles from the Atlantic to the Pacific?	Location
+Where does the song Anything Goes take place?	Location
+Where can I find lyrics for the song `Getting Married Today' from the musical `Company'?	Location
+What are the largest libraries in the US?	Location
+Which countries earn the most from tourism?	Location
+What mountain range is traversed by the highest railroad in the world?	Location
+What is the largest mall in the world?	Location
+Which U.S. city skyline features the Gateway Arch?	Location
+Where have the most dinosaur remains been found?	Location
+Which country has the most dams?	Location
+What river is Windsor Castle on?	Location
+What sea did Romans call nostrum?	Location
+What is the geographical center of the US, including Alaska and Hawaii?	Location
+Where did the Maya live?	Location
+Which country's capital is Lagos?	Location
+Where is Glasgow?	Location
+What country was Hitler chancellor of?	Location
+What is the name of the city Maurizio Pellegrin lives in?	Location
+What country is at 13 degrees North latitude and 10 degrees East?	Location
+What southwestern state is dubbed The Silver State?	Location
+Where were the 196 Summer Olympics held?	Location
+What river was Hernando de Soto the first European to see?	Location
+Which two countries are linked by the Brenner Pass?	Location
+What ocean is largest in world?	Location
+Where can I find schematics for the wiper mechanism?	Location
+Where is Poe's birthplace?	Location
+Where is the Ford Museum?	Location
+What is the largest lake in North America?	Location
+Where is the largest post office in the world?	Location
+What river is Rome built on?	Location
+What city is the setting for Puccini's opera La Boheme?	Location
+Where are great educational resources for parents and teachers?	Location
+Which country was General McArthur in when recalled by President Truman?	Location
+Name an art gallery in New York.	Location
+Which country in Latin America is largest?	Location
+Where do hyenas live?	Location
+What is the name of the country Hitler ruled?	Location
+Which London court was once a feudal castle?	Location
+Where can I find detailed information about Manchukuo?	Location
+Which city gained renown for its pea-soup fog?	Location
+What bay divides Maryland's Eastern and Western Shores?	Location
+Where is the North Korean nuclear complex located?	Location
+Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place?	Location
+Where can an individual get a contact lens tested that burned the eye?	Location
+Which country's flag is green?	Location
+What are the southern states of the U.S.?	Location
+What stadium do the Dolphins play their home games in?	Location
+Where can I find a picture of a Blue Meanie?	Location
+What are the largest breweries in the world?	Location
+What's the sacred river of India?	Location
+What are the five richest countries in the world?	Location
+Which country is known as "Big Bear"?	Location
+Which country has declared one-fifth of its territory off-limits to Russians?	Location
+Which country has the port of Haifa?	Location
+Where is the Loop?	Location
+What country was A Terrible Beauty to Leon Uris?	Location
+Where is Sinn Fein headquarters?	Location
+Where is the bridge over Kwai?	Location
+What city is called The Athens of Switzerland?	Location
+What man-made waterway is 1.76 miles long?	Location
+What country has been called the Queen of the Antilles?	Location
+What is the largest island in the Mediterranean?	Location
+Where did the ukulele originate?	Location
+Where did the real St. Nicholas live?	Location
+What city does McCarren Airport serve?	Location
+Where can I find information about the English Civil War, 1642-1649?	Location
+Where can I read about Lincoln?	Location
+What is the largest county in Massachusetts?	Location
+Which two European countries entered the War of Independence against Britain?	Location
+How many times can a nickel-cadmium rechargeable battery be recharged?	Number
+How many died on D-Day?	Number
+How many school districts are in the U.S.?	Number
+How much energy is released when oxygen and hydrogen mix?	Number
+How far is London from California?	Number
+How many miles is a ten K run?	Number
+How long for Spider-Man's web to evaporate?	Number
+What is the probability that at least 2 of 25 people share a birthday?	Number
+What is the all-time high of Apple stock, and where can I find this?	Number
+How long should you feed your puppy Purina Puppy Chow?	Number
+What ratio of children ages two to eleven watch `The Simpsons'?	Number
+When was the Battle of the Somme fought?	Number
+What is the population of Kansas?	Number
+How long does a fly live?	Number
+When were camcorders introduced in Malaysia?	Number
+How often are brain cells replaced?	Number
+When was the slinky invented?	Number
+How many people in America snore?	Number
+In what year was the cannon invented?	Number
+How many electoral votes does Colorado have?	Number
+How many times a year does the American Gourd Society publish The Gourd?	Number
+What's the population of Mississippi?	Number
+When was the first flush toilet invented?	Number
+What is the reactivity of neon?	Number
+How much can a person be fined for having a dog on a beach?	Number
+When did quilting begin?	Number
+How many sides does a heptagon have?	Number
+On what day were John and Jackie married?	Number
+When is Dick Clark's birthday?	Number
+How many Jews were executed in concentration camps during WWII?	Number
+How many years of schooling after high school does it take to become a neurosurgeon?	Number
+How long is a baseball pitcher's rubber?	Number
+What is the reactivity of helium?	Number
+How far do you run if you hit a home run?	Number
+How many months does it take for the moon to revolve around Earth?	Number
+What is the airport code for Los Angeles International?	Number
+How old is Piven?	Number
+When did the royal wedding of Prince Andrew and Fergie take place?	Number
+In what year was the first patent for the pull-tab opener on cans obtained?	Number
+What will the California gas tax be in 2000?	Number
+How many Canadians emigrate each year?	Number
+How many zeros are in a trillion?	Number
+How old is too old for a child not talking?	Number
+Miles to Ohio from North Carolina?	Number
+How much will gas be taxed in California by 2000?	Number
+What is a normal size penis for a 15-year-old?	Number
+How many trees are used in paper making each year?	Number
+What are the lengths of pearl necklaces?	Number
+How long is the world's largest ship in meters?	Number
+What does an average daycare provider get paid in New England?	Number
+In what year did China and South Korea establish relations?	Number
+How many elevators do you take to reach the top floor of the Empire State Building?	Number
+What century is the setting for The Adventures of Robin Hood?	Number
+How many points is a bullseye worth in darts?	Number
+How many ice cream flavors does Howard Johnson's have?	Number
+How much folic acid should an expectant mother get daily?	Number
+How much would it cost to purchase a 2-foot square party tent with sides?	Number
+How many American soldiers remain unaccounted from the Vietnam War?	Number
+How many movies has Drew Barrymore been in?	Number
+When did Aldous Huxley write "Brave New World"?	Number
+What is the population of Arcadia, Florida?	Number
+What is Ohio's population?	Number
+What is the fare from Cairo to Barbados?	Number
+What month and year did Charles I die?	Number
+What is the population of Mozambique?	Number
+How much will the California gas tax rise by the year 2000?	Number
+What are the odds of giving birth to twins?	Number
+In 1990, what day did Christmas fall?	Number
+How much does one ton of cement cost?	Number
+How much do tuberculosis drugs cost?	Number
+What is the cost of tuberculosis treatments?	Number
+How many people lived in Nebraska in the 1900s?	Number
+What is the average lifespan of a horse?	Number
+What year did nylon stockings first go on sale?	Number
+How many square feet is Bill Gates' home?	Number
+When was Berlin's Brandenburg Gate built?	Number
+How many people does Honda employ in the U.S.?	Number
+What's the percentage of children aged two to eleven who watch 'The Simpsons'?	Number
+What is the quantity of American soldiers unaccounted for from the Vietnam war?	Number
+What is the gestation period for human pregnancies?	Number
+How many people live in Chile?	Number
+What season begins with the vernal equinox?	Number
+How many fingers are used to draw a bow?	Number
+When was De Beers founded?	Number
+How many furlongs are in a mile-and-a-quarter track?	Number
+What year did the first "Playboy" issue come out?	Number
+How many elephants are left on earth?	Number
+What was Thatcher's approval rating after 10 years in power?	Number
+How many websites are in the world?	Number
+How many languages does the Pope speak?	Number
+What was the first minimum wage?	Number
+What is a perfect score in gymnastics?	Number
+How much do tuberculosis drugs cost?	Number
+When did Spielberg direct "Jaws"?	Number
+What is the pig population of the world?	Number
+What is the latitude and longitude of El Paso, Texas?	Number
+Where does the U.S. rank among countries in area?	Number
+How long must you live in a community to vote?	Number
+How many dots make the symbol for ``because''?	Number
+How many teats does a female goat have?	Number
+What percent of the world's fresh water is in Canada?	Number
+How many people speak French worldwide?	Number
+How much money does each player get at the beginning of Monopoly?	Number
+How long does it take a hen to lay 19 eggs?	Number
+When did Gothic art and architecture flourish?	Number
+What is the average salary of a paleontologist?	Number
+How many people have been Captain America?	Number
+What is the average date when malls begin putting up Christmas decorations?	Number
+How much does the President get paid?	Number
+How many died when the Estonia sank in 1994?	Number
+When is Ukrainian Christmas?	Number
+In what year did Hitler gain power in Germany?	Number
+What is Dick Clark's birth date?	Number
+What is an example of a case using the Fourteenth Amendment?	Description
+What is the origin of head lice?	Description
+What is a gandy dancer?	Description
+Why do people in the upper peninsula of Michigan say "eh"?	Description
+Fun things to do in Cozumel, Mexico for teenagers?	Description
+What is a hyperlink?	Description
+How does an abacus work?	Description
+What is Archimedes famous for?	Description
+How do you clean tarnished brass?	Description
+What makes thunder?	Description
+What is a phalanx?	Description
+What is a pyrotechnic display?	Description
+What is June's birthstone?	Description
+How can I stop or slow aging?	Description
+What causes tuberculosis?	Description
+What is the economic impact of unemployment on the economy?	Description
+Why are eggs stored small end down?	Description
+How can you contact play producers and promoters online?	Description
+What were the first words in a film soundtrack?	Description
+What would happen to Canada if Quebec separated?	Description
+What is Tyvek?	Description
+What is diabetes?	Description
+How did serfdom develop and leave Russia?	Description
+Why must a woman be a virgin to be a nun?	Description
+How do cameras take pictures?	Description
+What is Jane Goodall known for?	Description
+What is the difference between a generator and an alternator?	Description
+What is the origin of "pallbearer"?	Description
+What is an arab strap?	Description
+What is swap math?	Description
+What is cosmology?	Description
+How do I know if I'm jealous of someone?	Description
+What is the definition of the Scrabble word `syzygy'?	Description
+How can someone become a federal agent?	Description
+What does palindromic mean?	Description
+Where did the term "69" come from?	Description
+How do you write a correct critical analysis of a poem?	Description
+What is home banking?	Description
+How did the U.S. come into possession of an empire after the Spanish-American War?	Description
+What do you say to a friend who ignores you for others?	Description
+What is a nematode?	Description
+How can I get someone's phone number if I only have their screen name?	Description
+What is tumbled marble?	Description
+What was the first Funk 'N Lata Brazilian group's success?	Description
+What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition?	Description
+Why was Washington, DC originally called the District of Columbia?	Description
+What are alveoli?	Description
+What is Amish religion?	Description
+What is the historical relationship of the Catholic Church and bingo?	Description
+What happens to used motor oil?	Description
+In Waugh's "A Handful of Dust," what does the mad man force the hero to do every afternoon?	Description
+What are the distinct physical characteristics of the Arabian horse?	Description
+What does Robert mean?	Description
+What is the meaning of W.B. Yeats' poem, "The Three Hermits?"	Description
+Why are organ transplants more successful today?	Description
+How is plastic made?	Description
+Why do USA fax machines not work in UK?	Description
+What is the origin of gametophytic tissue?	Description
+What is the nature of learning?	Description
+What are people doing to help prevent bird extinction?	Description
+What does the name "Anthony" mean?	Description
+What is the difference between median and mean?	Description
+What do Hank Aaron, Jimmy Stewart, and Howard K. Smith have in common?	Description
+What is cache memory?	Description
+What is a urologist?	Description
+How do anti-lock brakes work?	Description
+Why are there 12 people on a jury in criminal cases?	Description
+What does the term glory hole mean?	Description
+What is the origin of the word, JJ?	Description
+Where did the term "86" come from?	Description
+Why do girls wear bras?	Description
+What information can you get on Fairground Park in St. Louis?	Description
+What does the term "yield to maturity" mean in reference to bonds?	Description
+What is an auberge in France?	Description
+What is saltpeter?	Description
+What is a wop?	Description
+What happened in Dogtown in 1899 to make that year remembered?	Description
+How does crosstalk relate to InSb thickness in infrared detectors?	Description
+What is Butterfield 8 in Butterfield 8?	Description
+How do you calculate the change in enthalpy of a reaction?	Description
+What is a geoscientist?	Description
+What happened to the once popular Yale Lock Company?	Description
+What is the biblical meaning of 'stones'?	Description
+What's the origin of the word `news'?	Description
+Why does a wheel, like a tire, appear to spin in the opposite direction as it slows down?	Description
+What does the name Shawn mean?	Description
+What are amaretto biscuits?	Description
+What is Remembrance Day?	Description
+What is typhoid fever?	Description
+How can I call a friend in another country when I do not know the number?	Description
+What is the spectrum of a sine wave?	Description
+Why are ears your center of balance?	Description
+Why do people shake hands to show friendliness?	Description
+How do you determine if a monitor has an SVGA adapter?	Description
+What causes pneumonia?	Description
+What was the importance of Magellan?	Description
+What was the claim to fame of the football game that saw Fordham defeat Waynesburg State 12601 on September 3, 1939?	Description
+Why is it called "hamburger" if there's no ham?	Description
+What are Fortune 500 companies?	Description
+What do you need to marry someone in jail?	Description
+How is `qigong' pronounced?	Description
+Why is Indiglo called Indiglo?	Description
+How do you get bubblegum out of carpet?	Description
+What is powerful about Power Bars?	Description
+What does verdandi mean?	Description
+What does the number 33 on the Rolling Rock bottle mean?	Description
+How does a submarine operate?	Description
+How do I know how much to save for retirement?	Description
+Define Spumante.	Description
+How do I contact Answers.com directly?	Description
+What are Christopher Marlowe's and Shakespeare's contributions to English literature?	Description
+What is the origin of the atom?	Description
+What is the origin of thank you notes?	Description
+What is a transistor?	Description
+What is an ecological niche?	Description
+What's the rathaus in Frankfurt?	Description
+What is a specimen of basidiomycetes?	Description
+What characteristics contribute to its intelligence?	Description
+What are Cobol, Fortran, and Pascal?	Description
+What revelation did Alexander Butterfield make to the Watergate committee?	Description
+How is silk screening done?	Description
+Why do light bulbs burn out?	Description
+Why do you say "God bless you" when people sneeze?	Description
+Why are haunted houses popular?	Description
+What is hypertext?	Description
+What is a turnkey contract?	Description
+What is a First World country?	Description
+How does light travel through the void of space if there is no medium for it to 'wave' or 'pulse'?	Description
+Why did the Shea & Gould law firm leave Los Angeles?	Description
+What effects do nitrates have on the environment?	Description
+What is paracetamol?	Description
+What is Betsy Ross famous for?	Description
+What is a person's socioeconomic position?	Description
+What is gymnophobia?	Description
+What is hypertension?	Description
+Why were red M&Ms discontinued and then brought back?	Description
+What is Olestra?	Description
+What is an isthmus?	Description
+What is dextropropoxyphen napsylate?	Entity
+What is a fear of hell?	Entity
+Which thrilled taste buds first - Snickers or 3 Musketeers?	Entity
+What are some good exercises for kids?	Entity
+What is the only vegetable that starts with "z"?	Entity
+What's the dumbest domesticated animal?	Entity
+What book does Holden Caulfield appear in?	Entity
+What disease is Sinemet used to treat?	Entity
+What are the titles of some R-Rated Sony Playstation games?	Entity
+Which Tolkien book features Gimli as a character?	Entity
+What vehicles are raced in the Tour de France?	Entity
+Name a mammal.	Entity
+What's bottled in jeroboams?	Entity
+What is "the taste that beats others cold"?	Entity
+What disease does Katharine Hepburn have that makes her voice shake?	Entity
+What was the species of Winnie Pooh?	Entity
+What animal received royal assent as an emblem of Canada on March 24, 1975?	Entity
+What species was Pooh?	Entity
+Name a Salt Lake City newspaper.	Entity
+What is "the great American cereal"?	Entity
+What does a farrier put shoes on?	Entity
+What were ceremony traditions like during Elizabethan times?	Entity
+Which product said `` hate gray, wash it away ''?	Entity
+What's the most common non-contagious disease in the world?	Entity
+What foods contain vitamin B12?	Entity
+What Peter Blatty novel recounts the horrors of Regan MacNeil's possession by the devil?	Entity
+What are ways to measure IT User Satisfaction?	Entity
+What is the best-selling book of all time?	Entity
+What do flatfish eat?	Entity
+What was the name of Betty Boop's dog?	Entity
+What magic does Mandrake use?	Entity
+What anesthetic did Queen Victoria allow for the birth of her seventh child in 1853?	Entity
+What's the common name for acetylsalicylic acid?	Entity
+What are some of Australia's native flora?	Entity
+What did Martin Luther post on the door at Wittenberg?	Entity
+What is the most popular sports car color?	Entity
+What golfing accessory was patented by George Grant on December 12?	Entity
+What kind of animal is Babar?	Entity
+What device produces visual displays corresponding to signals?	Entity
+What hair color can I use to cover gray?	Entity
+What hymn did John Steinbeck get his title The Grapes of Wrath from?	Entity
+Which comic strip was never adapted into a Broadway musical?	Entity
+What is the name of the second shuttle?	Entity
+What file has the .dbf extension?	Entity
+What are the seven wonders of the world?	Entity
+What English word comes from the Old French covrefeu, meaning cover fire?	Entity
+What was the first English play for children?	Entity
+What is the most used program?	Entity
+What are the types of plastic?	Entity
+What product's ads claim it "eliminates odors, kills germs, mold, and mildew"?	Entity
+What language is spoken by the Sioux?	Entity
+What is the best-selling cookie?	Entity
+What after-dinner treat was invented in 1916 at the Jung factory in Los Angeles?	Entity
+What weapon fires a bolt?	Entity
+What must be produced in a habeas corpus?	Entity
+What is a word whose letters can be rearranged to form a different word?	Entity
+Which mammal lives, breeds, eats, and sleeps underground?	Entity
+What was the name of the American ship sunk by a mine in Havana harbor, causing the Spanish-American War?	Entity
+What do you call a section of your finger from one joint to another?	Entity
+What is April's gemstone?	Entity
+Which racehorse won an Associated Press poll as the greatest horse of the 20th century?	Entity
+What is the name of the Michelangelo painting showing two hands touching?	Entity

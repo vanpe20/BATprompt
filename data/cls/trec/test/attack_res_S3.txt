@@ -1,0 +1,200 @@
+What does " bloodhound " mean?	Description
+What common dolphin is?	Description
+Which type of cactus is the most gigantic?	Description
+What exactly is a heart valve that leaks?	Description
+In 1929, what caused the world to experience a global depression?	Description
+Why is it required for a nun to be a virgin woman?	Description
+What boys and pink is the origin of blue for girls?	Description
+What is the rhythm of poetry blank verse?	Description
+The difference between a bachelor and a 1 bedroom apartment is what?	Description
+Dick was wished goodnight by Laugh-In with what being said to him?	Description
+Finding the area of a circle is done by what means?	Description
+How to legally create my own will and testament?	Description
+What is the reason behind the power of Power Bars?	Description
+Alexandra's appearance in Josie and the Pussycats featured a unique characteristic.	Description
+Involves osmosis what?	Description
+What distinction exists between optical and digital video?	Description
+Exactly what is Tetrinet?	Description
+Sometimes, why are your hands cold while the rest of you isn't?	Description
+What factors lead to endangered species being in danger of extinction?	Description
+The impact of LSD on brain function is what?	Description
+Why is it that you are unable to taste anything while experiencing a cold?	Description
+The Ouija for what does stand?	Description
+In a list of fax and email addresses, where can Massachusetts human resource departments be located?	Description
+What are the members of a baseball team's firemen made up of?	Description
+What significance do pointed letters hold for a graphologist?	Description
+Nitrates in the environment can have what impact?	Description
+How is the execution of witnesses located or selected?	Description
+What is the meaning of "Philebus-like"?	Description
+Shea & Gould closed their office in L.A. because of which reason?	Description
+What all splatterpunk is about?	Description
+What does the 401 K plan represent?	Description
+How the purification of strontium is carried out?	Description
+How might one acquire the email address of another individual?	Description
+What definition spamming of is the?	Description
+Have peanut butter cookies crisscrosses on top for what reason?	Description
+How can the NBA license my product?	Description
+What year was a Beanie Baby introduced in?	Description
+Every year, how do birds manage to find their way back to the same place?	Description
+How is Mr. Shimerda on the farm in My Antonia out of place?	Description
+Why are the advantages of homeschooling?	Description
+Is it possible for files to be transferred from one computer to another?	Description
+What is done by insects through their spiracles?	Description
+In order to secure citizenship in Australia, what are the conditions that need to be fulfilled?	Description
+What mosquitoes are good for ?	Description
+What makes the Windows 3 software from Microsoft so popular?	Description
+How can someone tell if I am really in love with them?	Description
+What differentiates a bottle from a jar?	Description
+What playing "snow golf" rules are?	Description
+Is there evidence supporting the claim that houseplants break down carcinogens through metabolism?	Description
+What is the final destination of used motor oil?	Description
+Digital audio is used how?	Description
+Was the Vietnam War over?	Description
+Known as a portal is what?	Description
+What is known as a swatch?	Description
+What is considered in nautical terms to be the deadrise?	Description
+What part of the body is the corpus callosum located in?	Entity
+What do the 10 plagues in Egypt consist of?	Entity
+In recognition of his services in quelling rebellions, what did the Chinese emperor give to the English soldier Gordon?	Entity
+What is composed of 90 percent of the human body by four elements?	Entity
+Steven Spielberg's dog starred as the faithful companion of the lead character in which film?	Entity
+The name of the ship that Beany and Cecil sailed on is given.	Entity
+Could a phobia be the fear of fur?	Entity
+Cut into what outfit was the membership of Bugs Moran's famed gangland slaughter?	Entity
+The primary language of the Philippines is what?	Entity
+Boosting business was inserted into bagels by the forward-thinking Simon Brothers Bakery of Chicago.	Entity
+A term that violates the accepted standards of sexual morality for behavior, appearance, or expression is what?	Entity
+When geese come together, what is the term used to describe them?	Entity
+The largest snake in the world, what is it?	Entity
+Which language boasts the largest number of words?	Entity
+What sits between Baltic Avenue and Reading Railroad on a Monopoly board is the penalty space?	Entity
+The meeting in Crimea where Roosevelt, Churchill, and Stalin gathered - what was it called?	Entity
+Under the mistletoe at Christmas time, what is the traditional thing to do?	Entity
+Can a free-legged pacer participate in which sport?	Entity
+What is involved in the fear of frogs?	Entity
+Which therapy seeks to draw forth the " primal scream " from deep inside?	Entity
+Before toothpaste, what did individuals utilize to freshen their breath?	Entity
+Beethoven's 9th symphony is famous for what?	Entity
+Which non-fiction book was the best-seller between 1952 and 1954?	Entity
+What is involved in a fear of parasites?	Entity
+What beer stands clear when it's time to relax?	Entity
+What beats the others is the taste that is cold?	Entity
+Receiving an international revival in 1981, which 1927 silent film?	Entity
+Robert Fulton 's most famous steamboat was called what?	Entity
+Seven of every 10 houses in the U.S. are what color?	Entity
+One of the most subversive TV shows in American history was called by TV Guide writer Jeff Greenfield from oldtime kids' fare.	Entity
+During that time in Belgium in 1815, which significant battle was fought?	Entity
+In what color do good Rhine wines come bottles in?	Entity
+Set in the Napoleonic Wars, which Russian novel features over 5 characters?	Entity
+Where do camels keep their humps?	Entity
+In Tennessee Williams' play, a mob of starving children kills and devours one of the characters.	Entity
+Are there any plants that protection against can be deer planted for?	Entity
+What emergency decrees were used by the German Nazis in 1933 to justify imprisoning opponents and granting themselves more power?	Entity
+What sort of fear do reptiles have?	Entity
+What is the meaning of "B.Y.O.B."?	Expression
+G.M.T. stands for what?	Expression
+The abbreviation for trinitrotoluene is what?	Expression
+What LMDS is?	Expression
+Who resides in Ottawa at 24 Sussex Drive?	Human
+Between the composer Gilbert and Sullivan was the lyricist.	Human
+Who claimed they were planning to head out and milk the elk?	Human
+What team in the Marvel universe is inspired by the Justice League of America from DC called?	Human
+The author of the book "The Iron Lady: A Biography of Margaret Thatcher" is whom?	Human
+Who was the director that portrayed the commandant of the POW camp in 1953's Stalag 17?	Human
+The actor who played the role of The Godfather in the film was whom?	Human
+In 1984, which 4-foot-9 actress became the first performer to win an Oscar for playing a character of the opposite sex?	Human
+Was the Central Park architect who?	Human
+Which company, originally manufacturing plastic throwing toys, ended up making pies?	Human
+Titled Shooting Star is whose biography by Maurice Zolotow?	Human
+Which prophet did the Muslim people abide by?	Human
+Advancing the newspaper industry in America was significantly influenced by Benjamin Franklin.	Human
+Which comic strip character met their demise due to acne?	Human
+Whose cupboard had no food in it?	Human
+A female figure skater is requested to be named.	Human
+Was William Henry Harrison who?	Human
+What professional travelers build for the airline is.	Human
+Gene Autry was once told by which President, "Please give my regards to your wife Dale"?	Human
+During a coup d 'etat in 1973, which Chilean president passed away?	Human
+The Ranger who was always after Yogi Bear was named.	Human
+A Pulitzer Prize-winning novelist who ran for mayor of New York City was which?	Human
+Peter Parker is the secret identity of comic strip photographer.	Human
+Which actress did Bette Davis once say she wished she looked like?	Human
+Which actor starred in Singing in the Rain and The Singing Nun?	Human
+Did an American win the world Grand Prix driving championship in 1978?	Human
+Is Amsterdam located?	Location
+What is the telephone area code 27 in which New England state?	Location
+Which body of water envelops the Madeira Islands?	Location
+The real St. Nicholas lived where?	Location
+The planet that the Ewoks call home, what is its name?	Location
+Which city in the U.S. features the Gateway Arch on its skyline?	Location
+What in Reims is worth seeing ?	Location
+Can a perpetual calendar be viewed by the public anywhere?	Location
+Which country is located to the north of the border of Costa Rica?	Location
+Which cities are known for being the most expensive to live in worldwide?	Location
+Is it possible to find the Union Stockyards?	Location
+Is there anywhere information about the novel "El Cid"?	Location
+Named after the Spanish term baja mar, meaning shallow water, which islands are?	Location
+What is the country renowned for its Persian carpets?	Location
+What is the East Africa Kenya known for in the safari center as?	Location
+The location of the Keck telescope is?	Location
+Hitler was the chancellor of which country?	Location
+How can I get pictorial directions for constructing a basic treehouse?	Location
+Which math students are from the best countries?	Location
+Which pair of siblings are found in the constellation Castor and Pollux?	Location
+Known for its exclusive Copacabana Beach and Ipanema, which South American city is?	Location
+Is there any information available on Chiang Kai-shek that I can access?	Location
+Where can information and statistics be found about countries and nations?	Location
+Edgar Allan Poe's The Pit and the Pendulum is set in what country?	Location
+In Operation Avalanche during World War II, the country that the Allies invaded was.	Location
+In 1923, which European country stopped using postage stamps due to the cost of printing being higher than their face value?	Location
+Prussian born explorer Freidreich Wilhelm Ludwig Leichhardt, where did he go to school at?	Location
+The most dinosaur remains have been found where?	Location
+The largest and most expensive freeway construction project in the U.S. right now is what?	Location
+Where can I locate a platform to consult with a specialist?	Location
+What is the Caribbean island located to the northeast of Trinidad?	Location
+To see Cleopatra's Needle, which North American city would you be visiting?	Location
+Constructed was the Hoover Dam when?	Number
+When did Stevie Wonder sign with Motown Records?	Number
+Joe Namath's first contract was worth how much?	Number
+Are there in soy sauce calories how many?	Number
+In what year did CNN start broadcasting?	Number
+What is the number of people living in Tucson?	Number
+How many Eskimo people are there names for?	Number
+How much horsepower do the boosters of the shuttle possess?	Number
+What minimum wage was the first one?	Number
+An expectant mother should get daily, how much folic acid?	Number
+What is indicated by the unemployment statistics for 1965 and 1990?	Number
+The number of votes that dissented in Congress from the 1941 declaration of war with Japan was how many?	Number
+Yemen reunified when?	Number
+The number of bones in the human hand is?	Number
+Is there in a 16 oz cup of coffee how much caffeine?	Number
+What time did the final eruption of Vesuvius occur?	Number
+The Mackinaw Bridge had many men died building it?	Number
+Gene Siskel was how old?	Number
+Adjacent pins in tenpin bowling, how many inches apart are they?	Number
+Creating a teaspoon requires how many tablespoons?	Number
+Are there many stars in the Big Dipper?	Number
+Are there a myriad of apple types?	Number
+What speed does a 45Mhz processor operate at?	Number
+In actuality, how big is the universe?	Number
+Bernadette Peters is what age?	Number
+What about the weight of a teaspoon of matter inside a black hole?	Number
+What year was the film "Jaws" made in?	Number
+In how many of his 21 major league seasons did Warren Spahn not achieve 20-game winner status?	Number
+What size is usually seen in the penis of a 15-year-old boy?	Number
+To vote, how long must you live in a community?	Number
+What is the duration for your blood to travel through the body on a full journey?	Number
+Did the inception of quilting take place?	Number
+What is the exchange rate for 8 pounds in the U.K. to American dollars?	Number
+What phone number belongs to Columbia Tristar?	Number
+How many Rubik's Cube colored squares are there on?	Number
+In which year did CNN start broadcasting?	Number
+The horsepower of the shuttle boosters is?	Number
+When did the establishment of diplomatic relations occur between the ambassadors of Spain and Korea?	Number
+How many years did it take for Livingstone to be located by Stanley?	Number
+When did Princess Diana and Prince Charles tie the knot?	Number
+How many miles in an acre?	Number
+How many players are dealt cards in Gin Rummy?	Number
+When is it that you plant winter wheat?	Number
+How much room in cubic feet does a gallon of water take up ?	Number
+Rococo painting and architecture flourished when?	Number

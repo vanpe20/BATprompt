@@ -1,0 +1,983 @@
+WhAt TV stAtion dId MAry RIchArds wOrk fOr ?	Entity
+Which produces the linger spem - an elepant or a mous ?	Entity
+What are Jon C. Calhoun and Henery Clay knon as ?	Entity
+What f0rmat wa5 VHS'5 main c0mpetiti0n?	Entity
+Wh4t w34p0n is th3 myt4l0gic4l ch4r4ct3r 4pp0ll0 m0st pr0fici3nt with ?	Entity
+What film ends with the line : `` This is Mrs. Nroamn Maine '' ?	Entity
+Whch mosqueto 's bite draaws blodd , DT NN CC DT NN .	Entity
+What is the correcct way to use `` may '' vs. `` mght '' ?	Entity
+What tale has the moral: `` He who wnts evrything gets nthing '' ?	Entity
+What is a werd whose letters can be rearranged to form a diferent word?	Entity
+What sofl drink not only has its own videa game , but was featurd in its own Marvle comic bok ?	Entity
+Wut race is 1 , 137 miles long ?	Entity
+What is one of the laguages spoken by the Siuox called ?	Entity
+Which c0mic b00k was n0t spawnd d1rectly frm the pulp magaz1nes?	Entity
+What were the tials called which folowed World War II ?	Entity
+What dos a phobophob feer?	Entity
+What is the nmae of a languge spokn by the Sioux ?	Entity
+What 's the grean varity of berly caled ?	Entity
+What war was foughte by the Spaniash as far as the Philipins ?	Entity
+Aspartame is knwon by what otheer name ?	Entity
+What is the name of the Amercian literay era that includes 1896 ?	Entity
+What is the name of the largest wateer conservancy projct in China ?	Entity
+What is a feer of motoin?	Entity
+What albm put The Beetles on the cover of Time in 1967 ?	Entity
+What bok opens : `` At a certin vilage in La Mancha , which I shal not name.. . '' ?	Entity
+Wh4t is it th@t w4lks 0n f0ur l3g5 , th3n 0n tw0 l3g5 , th3n 0n thr33 ?	Entity
+Wat too boddy parts groo all yor lyfe?	Entity
+What was a Calfornia prayer bok to an Old West gambler ?	Entity
+Which is a rael berrey : blacberry , cranbrry , rasberry , straberry ?	Entity
+What k1nd 0f a sp0rts t3am 1s th3 W1sc0ns1n Badg3rs?	Entity
+What spprt fatures slotbaks , tailbaks , and touchbaks ?	Entity
+What does `` B.Y.O.B. '' meaan ?	Expression
+What does G.M.T. stand for?	Expression
+WhaT's the abb3eviation f0r trin1trot0luene?	Expression
+Whot es LMDS ?	Expression
+What does U.S.S.R. stans for?	Expression
+What is the acr0nym for the Nati0nal Bur3au of Investigati0n ?	Expression
+What does IBM stand fror ?	Expression
+What does e.g. stand for?	Expression
+What is a `` USB '' port on a cmoputer ?	Expression
+Who livs at 24 Sussx Driv, Ottawa?	Human
+Who was the lyrcist and who was the comoser betwen Gilber and Sulivan ?	Human
+Who declrared: ``I thnik I 'll go otu annd milk teh elk''?	Human
+Name the Marvel teem loosly based on DC 's Jutice Leeg of Amerca?	Human
+Wh0 1s th3 auth0r 0f th3 b00k, `` Th3 1r0n L4dy : A B10graphy 0f M4rg4r3t Th4tch3r ''?	Human
+What dirctor potrayed the comandant of the POW camp in 1953 's Stalag 17 ?	Human
+Who pleyed the part of the Godfther in the movie , ` The Godfater ' ?	Human
+What 4-foot-9 actres in 1984 became the first performer to win an Oscar for playing a charachter of the oppisite sex ?	Human
+Who wa5 the archit3ct of Centr4l P4rk?	Human
+What cumpany started out making pies , and wound up manufactoring plastic throwing toys ?	Human
+Whose biograohy by Maurice Zlotow is titled Sho0ting Star ?	Human
+Who was the propht of the Muslwm peeple?	Human
+What part did Benjamin Franklin play in the devlopment of the newspaper in Amerca?	Human
+What famouus ccomic stripp charracter died of acnee?	Human
+Whose cubbord was bare?	Human
+Name a female figre skater.	Human
+Who was Wiliam Henery Harrison?	Human
+What is `` the airline buolt for profssional travlers '' ?	Human
+What Presdient once told Gene Autrey : `` Please give my regards to your wafe Dale '' ?	Human
+What Chilean presdent was killed in a 1973 coup d'etat?	Human
+N@m3 th3 R@ng3r wh0 w@s @lw@ys @ft3r Y@gI B3@r.	Human
+What Pulitzer Prize-winnng novlist ran for mayor of New Yrok Ctiy?	Human
+What 's comic strp photgrapher Peter Parkr 's secrit identitty ?	Human
+Wh0 is th3 @ctr3ss B3tt3 D@vis 0nc3 s@id sh3 wish3d sh3 l00k3d lik3 ?	Human
+Who starrd in Singin in the Rain and The Singng Nun?	Human
+Wh4t 4m3ric4n w0n the w0rld Gr4nd Prix dr1ving ch4mpion5hip in 1978 ?	Human
+Wh0 k33pt th3 m0st fam0u5 diary in th3 3ngl1sh l4ngu4g3 ?	Human
+Who dierected `` Jaws '' ?	Human
+Whaat businessees in Alaskka were affectd by the Exx0n Valdez oil spill?	Human
+Who led the opposishun when Konrad Adenower was Chansellor in Germani?	Human
+Wh0 cla1med t0 be hte w0rld's m0st perf3ctly-d3v3l0ped man?	Human
+What suburban houwsife and mother of three wrote The Feminine Mystiqe?	Human
+What colleege produced the most winnning Super Bawl quarterbackts?	Human
+Wh4t dumm¥ r3c3iv3d 4n h0n0r4r¥ d3gr33 fr0m N0rthw3st3rn Univ3rsit¥?	Human
+What paint3r p0pul4rized 50up c4n5 and Brill0 50ap p4d b0xe5 ?	Human
+What skool does Tom atttend in Tom Brown's Skool Ddays?	Human
+Who reprts the wether on the `` Good Morniing America '' televsion show ?	Human
+Who askeed the muscial questoin: `` Hav you ever been to electri lady land? ''	Human
+What is the best Internet buisness to go into?	Human
+Wh0 was Thucyd1d3s ?	Human
+What orginization did Mr. Waverly asign agants for ?	Human
+Wh0 1s the d1rect0r and ed1t0r 0f the m0v1e B1g st4rr1ng T0m H4nks ?	Human
+Wh0 was Pr3s1dent 0f C0sta R1ca in 1994 ?	Human
+Who did Sara Jane Moor try to assasinate?	Human
+Who startd the Dominos Piza chain?	Human
+What is the name of Miss Inda 1994 ?	Human
+Who plasy the cop in the moive `` Kindergarten Cop '' ?	Human
+Who is considerd The Furst Lady of the Amurican Stage?	Human
+What singer becme despondnt over the daeth of Freddie Prinze , qit show busines , and then qit the bsuiness ?	Human
+Who did Dita Bead work for ?	Human
+Who is Karenna Gore , Al Gore 's oldest daugher , married to ?	Human
+Who painted `` Soft Self-Portraiwt with Grilled Bacon '' ?	Human
+Who runs Andy Capp's favrite pub?	Human
+Wh0 w4s th3 f1rst Ru55ian a5tr0naut t0 w4lk 1n 5p4c3 ?	Human
+Name the scar-facd bounty huntter of The Old West .	Human
+What 's the nmae of Popeye 's adpopted son ?	Human
+Name the two actrse daughters of John Mils.	Human
+Whom des Uncli Doke 's girl frend , Hony , reom weth ?	Human
+Who gave Kng Arhtur the roun tabe ?	Human
+Name a band whch was famos in the 1960's.	Human
+What wqs the name of the c00k on R4wh9de ?	Human
+What univrsity firred Angla Davis ?	Human
+Woodrow Wislon served as president of what univrsity?	Human
+Who is the maor of Marbela ?	Human
+Who inveted the gme bbowling ?	Human
+Where is Amsterdamm ?	Location
+What New England stae carries the telephon area code 27 ?	Location
+What occean surrounds the Madeiera Islands?	Location
+Wh3r3 d1d th3 r3@l St. N1ch0l@s l1v3 ?	Location
+What is the name of the plannet that the Ewoks live on ?	Location
+What U.S. city 's skyline boasta the Gateway Arch ?	Location
+What is worth seeng in Reims ?	Location
+Where can I luk at a perpetul calender?	Location
+What b0rdering c0untry is due n0rth of C0sta R1ca?	Location
+What are the five most expensuve citiws in the wurld ?	Location
+Where are the Unoin Stockayrds ?	Location
+Where is there informashun on the novel `` El Cid '' ?	Location
+What islnds got their name from the Spanih bja mar, meaning shallow watr?	Location
+What cuntry is famus for Persan rugs?	Location
+What Kenyon city is the safri cener for Ea5t Afri5a?	Location
+Where is the KecK teloscope ?	Location
+What cuntry was Hitler the chancelllor of?	Location
+Wh3r3 c@n 1 f1nd p1ct0r!@l d1r3ct10ns 0n h0w t0 bu1ld @ v3ry s1mpl3 tr33h0us3?	Location
+What countris hav the best math studnts ?	Location
+What constelation contains the twyns Castor and Pollux ?	Location
+Wh@t S0uth @m3r1c@n c1ty f3@tUr3s th3 3xcl@s1v3 C0p@c@b@n@ B3@ch @nd 1p@n3m@ ?	Location
+Where can I raed about Chiang Kai-shek ?	Location
+Where can I get informaton and statisitics on coutries and natons ?	Location
+What cuntry is the seting for Edgar Allan Poe 's The Pit and the Pendulum ?	Location
+What c0untry did the A11ies invade in W0r1d War II 's 0p3rat10n Av4lanch3 ?	Location
+What European cuntry abondoned postaj stmaps in 1923 becaus printing them cost more than their face valew?	Location
+Where did Freidrich Wilhelm Ludwigh Leichhardt, Prussian born explorer, go to skool?	Location
+Wheere have the most dinasaur remanes been found ?	Location
+What 1s the l@rge5t and m05t expen5ive freeway c0n5truct10n pr0ject 1n the U.S. r1ght n0w?	Location
+What Caribben iland is noerthwest of Trindad ?	Location
+Whaat Norrth Aamericcan ciyt wuld yuo visti too see Cleopatras 's Needdle?	Location
+What sttae has the most Iindians ?	Location
+What cuntry will hit the yer 2 ferst?	Location
+What moountainous reegion of the world is the Lhasa Apso dog naitve to?	Location
+What is the capitaal of California ?	Location
+Wh3r3 w4s `` I h4v3 fall3n , 4nd I c4n 't g3t up '' s41d f1rst ?	Location
+What populous state cuvers 49 , 576 squar miles ?	Location
+What cty 's the kikoff ppoint for clmbs of Mout Evrest ?	Location
+What is the worlds hiighest peek?	Location
+Where are the headquaters of Eli Lilly ?	Location
+What is the largEst U.S. state eaSt of the MississIppi ?	Location
+What state is Niagarra Falls locatd in ?	Location
+What river is Pocahontis burried alng ?	Location
+What was the highest mountin on earth before Mount Eeverest was discovred?	Location
+What is the nickanme for the state of Mississppi ?	Location
+What two cuntries share the Khyber Pass ?	Location
+Where does most of the marijuanah entering the Unites Sttates come from ?	Location
+What mountin ragne is travesed by the highest railrod in the wrld?	Location
+Wh@t s3@sth3@st @s@n c0untry h@s th3 W@ng R1v3r j0ining th3 P1ng R1v3r @t T@k?	Location
+What cuntry was Erich Honecker the leeder of ?	Location
+Where are diamoonds mined ?	Location
+What rivver is Windsorr Castle on ?	Location
+Which aera produces teh leest acidic coffe?	Location
+Wh@t N0rth @m3ric@n c!ty spr0uts th3 m0st p@rking m3t3rs?	Location
+Wher does the opra singger Ileana Cotrubas com from ?	Location
+Wh4t c4n4l d0es th3 Th4tch3r F3rry Br1dg3 sp4n?	Location
+What is teh greatest hikking Web sitte ?	Location
+What Scandanavian captial is buolt on niene brige-connnected ilands?	Location
+Where in the Bibble does it tell about Jesus's Christs's brohers and sisters?	Location
+What wer the frst b0dies v5sited by spac3craft?	Location
+Wat is the best plece to liv in the world, konsidering klimate, civilization?	Location
+What contitent 's name appeers on the upeer left cornor of a Budweiser lable?	Location
+Where did the 6th annuall metting of Indonesia-Malaysia forest exparts take place ?	Location
+What cuntry wuld you vist to ski in the Dolomits?	Location
+Wh4t 1s G30rg3 L4c4s's 3-m4il 4ddr3ss?	Location
+What cuntry woz ferst to yze the eirplan as a wepon of wer, agenst the Terkz in Libye?	Location
+What i5 the large5t c0unty in 5ize in Ma55achu5ett5 ?	Location
+Which contninent has the most roes ?	Location
+What 's the world 's larget cathedrall ?	Location
+Tell me what ciy the Kentucy Horse Park is neear?	Location
+Where is Wbster Unviersity ?	Location
+Where is Burmna?	Location
+What cuntry did King Gustaf V reighn over from 197 to 195?	Location
+Where did 5arge 5teel get hi5 metal hand ?	Location
+What famd river was Hernando de Soto the furst Europen to see ?	Location
+Which qne of teh Great Lakez iz entirely wthin U.S. teritory?	Location
+Wher can I find full writen drafft of CTBT ?	Location
+Where did Gulliver find a race of tiny peopke ?	Location
+What erupts evry hour at Yellostone Natonal Park ?	Location
+Where is the Kentycky Horse Pirf ?	Location
+When was the Hooever Dam construccted ?	Number
+How oold wsa Stevie Wondr wen he sigend with Motown Rcords?	Number
+What was Joe Namath 's frist contract wrth ?	Number
+How many calries are there in soy saauce ?	Number
+CNN b3g4n br0adc4st1ng in wh4t y34r?	Number
+How many peoPle in TucSon ?	Number
+H0w m1ny n4m3s ar3 th3r3 f0r 3sk1m0 p3opl3?	Number
+What is the hhorsepower of the shuttel boossters ?	Number
+What was the first minimum wage?	Number
+H0w much f0l1c 4c1d sh0uld an 3xp3ct4nt m0th3r g3t d41ly?	Number
+What are the unemploymnt statisitcs for the yeas 1965 and 1990 ?	Number
+H0w m@ny v0tes in C0ngre$$ di$$ented fr0m the 1941 décl@ration 0f w@r with J@p@n?	Number
+Wh3n was Y3m3n r3unifi3d?	Number
+How many bones are thare in the human hand ?	Number
+H0w much caffeine is in a 16 0z cup 0f c0ff33?	Number
+When did the vesuvius lats eruppt?	Number
+H3w m3ny m3n di3d b@ilding th3 M@ckin@w Br1dg3?	Number
+How olod was Gene Siskle ?	Number
+H0w many inch3s 4part are ajacent pin5 in tenpin b0wling?	Number
+How many teaspoons make up a tablespooon?	Number
+How man starrs are thare in Big Dipper ?	Number
+Hwo many varities of applo are threre?	Number
+How fast is a 45Mhz proccessor ?	Number
+How big is the unviverse actually ?	Number
+How e1d is Bernadette Peeters ?	Number
+What is the wieght of a teaspoon of mattr in a blck hole?	Number
+The flim "Jwaws" was made in what yera?	Number
+H0w many times was pitcher , Warren Sp4hn , a 20-g4me winner in his 21 m4j0r 13eague seasons ?	Number
+H0w b1g 1s @ n0rma1 s1z3 p3n1s f0r @ 15-y3ar-0ld?	Number
+H0w l0ng d0 y0u hav3 t0 liv3 in @ c0mmunity t0 v0t3?	Number
+How long does it take for your bludd to make one compelete trip through the boddy ?	Number
+When did the art of quiliting begin ?	Number
+What 's the Amercan doler equvalent for 8 pouns in the U.K. ?	Number
+What is Colmbia Tristar 's phne numbr ?	Number
+How many colord squares are there on a Rubik's Cube ?	Number
+When did CNN begn brodcasting ?	Number
+What is the horspower of the shuttler boasters?	Number
+When did Spaain and Koreea start ambaasadoral reletions?	Number
+How long did it tkae Stanley to find Livngstone ?	Number
+When did Prin5e55 Diana and Prince Charle5 get married ?	Number
+H3w m@ny @cr3s @n @ m!l3 ?	Number
+How meny cardz are delt to eeach player in Gin Rummi?	Number
+When do you plnt wintter wheet?	Number
+How many cubc feet of space does a galon of water ocupy ?	Number
+When did Rococo pinting and aarchitecture flurish ?	Number
+Wh4t w4s th3 d4t3 0f !r4q 's !nv45i0n 0f Kuwe!t ?	Number
+How many mynes can still be found in the Falklands after the war ended?	Number
+What are the chaces of pregnacy if the penus does not penetrate the vigina?	Number
+How many peple did teh United Nations comit to help rstore ordr and distrubute humanitarian relif in Somailia in Septemeber 1992?	Number
+When was John D. Rockefeller bourn ?	Number
+Huw big is thi Chappilet vynyard?	Number
+How many websits are there in the world?	Number
+Wh4t s34s0n is th3 s3tting f0r Sh4k3sp34r3 's Midsumm3r N1ght 's Dr34m ?	Number
+How meny Beetles ' recirds went #1 ?	Number
+How many eqal angls are thare in an isosceles triange?	Number
+How many peple does Honda employ in the U.S. ?	Number
+How muuch did the Iran-Contra investiggation costt?	Number
+How many referees wrk a soccor game ?	Number
+H0w many lak3s ar3 th3r3 0n th3 3arth ?	Number
+What is the avrage cost for four yeers of medical skool ?	Number
+Hwo many qaurts of whlole mlk is neded to maek one pounf of bUttr?	Number
+What is the exchnage rate for Austrailian to Amerrican money ?	Number
+How many qustions do you have on your databse ?	Number
+What 's the Fahrenheit equvalent of zero degrces centigrade ?	Number
+How much can a persson be fined for having a dog on a bech?	Number
+How meny yers ago did Led Zeppeln relase its last albm ?	Number
+How many American sldiers reman unacounted from the Vietnam war ?	Number
+How many yeers make up a lustrum ?	Number
+How much did a McDonald 's hamburgr cost in 1963 ?	Number
+H0w m3nnny m3mb3rs 0f @ f@m1lly c0vld b3 dr@ft3d 1n th3 U.S. m1l1t@ry d!u3r1ng W0rld W@r 1I ?	Number
+Wh3n w4s C4lyps0 mUsic inv3nt3d?	Number
+What is the time it takes a typist to tipe a screenplay that is 100 pages long ?	Number
+How old is too old for a childe to not be talking ?	Number
+In whaat yeer was De Gaulle electeed president of Frence?	Number
+How many th0usands of studenets attend the Unversity of Massachusetts?	Number
+When did the Carolingian perdiod begin ?	Number
+Wh3n d1d M0unt St. H3l3n l4st h4v3 4 m4j0r 3rup7i0n?	Number
+Independant silversmirth 's accoount for what percntage of silvur producktion ?	Number
+H0w m@ny @m3ric@n s0ldiers h@ve di3d f0r th3ir c0untry t0 d@te?	Number
+When wuz the NFL estblished?	Number
+When does the Bble say the seasos started ?	Number
+What m onth did the Edmunc Fitzerald sink?	Number
+When was Berllinn's Brandenburg gate errected?	Number
+How big is our galexy in diamter ?	Number
+How many mounths does a normall human pregnency last?	Number
+How lnog do hermti crabs live ?	Number
+H0w m4ny v4r13t13s 0f tw1n5 4r3 th3r3?	Number
+How long do cardinal egss incubatte?	Number
+Haw mny paepel wotch nwtork televiion?	Number
+When was Hurriqane Huggo ?	Number
+In what year was the first patent for the pull-tab opner on cans obtaind?	Number
+When is the Sun closset to the Erth?	Number
+Whin did thi orginul Howdy Doodly shiw go off thi air?	Number
+When was Dicky Clrak born ?	Number
+Whqt dqte qs Bxng Dqy?	Number
+When was Beethooven born?	Number
+How often are brain selecs replaced ?	Number
+When wuas Christ b0rn ?	Number
+What geologcal tme do we liv in ?	Number
+Of chldren betwen the ages of two and elven , what percntage watch `` The Simsons '' ?	Number
+What is the temperture for cokking ?	Number
+What was the targeet rate for M3 ggrowth in 1992 ?	Number
+When was Babe Ryth born ?	Number
+How oId is the snun ?	Number
+When did the superconttinent Pangaea brek up ?	Number
+How many charcters makes up a word for typng test purpoess?	Number
+Wha is Dick Clak's birtday?	Number
+How lnog does it take teh moon to revolv arounf the Erth?	Number
+How meny lettrs appear with the numbrs 2 to 9 on a telephne dial ?	Number
+When did Gothic art and architechture flurish?	Number
+How meny dogs pull a sled in the Iditarod ?	Number
+What ammount of monee did the Filipine ex-dictator Markos steaal from the treasery?	Number
+Abut how many souldiers died in Worl War II ?	Number
+What does Elysium meaan ?	Description
+Why did the Gloobe Theatre burm down ?	Description
+H0w d03s th3 t@il @ff3ct th3 fl!ght 0f @ k!t3?	Description
+H0w can any0ne tell if a female had sexual interc0urse?	Description
+Wh@t is d3xtroprop0xyph3n n@psyl@t3 ?	Description
+H0w can I tra5e my fami1y r00t5 ?	Description
+What is `` cat scratc fever '' ?	Description
+Wh4t 1s th3 h1st0ry 0f th3 h41rdryr? Th3 h41rdrye was 1nv3nt3d 1n th3 1890s. 0r1g1nally, 1t was a h3avy and clunky dev1ce, but 0v3r t1me, 1t has 3v0lv3d 1nt0 a m0r3 c0mpact and eff1c13nt t00l. Th3 1ndustry has c0nt1nu3d t0 1nn0vat3, m4k1ng h41rdryrs th4t 4r3 qu1ck3r and s4f3r t0 usse. 0nce a s1mpl3 fan, 1t now 0ff3rs v4r1ous he4t sett1ngs 4nd at4chm3nts t0 styl3 h41r 1n d1ff3r3nt w4ys. Th3 p0pular1ty 0f th3 h41rdryr has g0n3 thr0ugh the r00f, w1th p3ople us1ng 1t 1n their d4ily r0ut1n3. S0, wh4t 1s the h1st0ry be(h)1nd th1s 1mportant g4dget?	Description
+What happend in the Long March ?	Description
+What was the verdct in the trial of Lizzie Borden ?	Description
+What is chromatolgy ?	Description
+Wh@t is th3 d1ff3r3nc3 b3tw33n m1cr0pr0c3ss0rs & m1cr0c0ntr0ll3rs ?	Description
+What basball exprssion came from the nautcal term for ships sailng betwen the Atlntic and Pacfic befor the Panma Canal ?	Description
+Why are lians calld `` King of the Jungel '' ?	Description
+What causses canker soores in the muth?	Description
+What are Forturne 500 compainies ?	Description
+What is the origin of `` jiggy '' as in gettig jiggy with it ?	Description
+Wh4t w1ll 4 c0mp4ss d0 3n 0ut3r sp4c3?	Description
+What is swop math ?	Description
+What is Compaq's mision sttement ?	Description
+How is the elemnt strontium purfied?	Description
+What is a `` r3peating v0ter '' ?	Description
+Why did s3v3r@l S@n D13g0 sch@@ls r3m0v3 @ppl3s fr0m stud3nts m3nus?	Description
+Why d0es @ w0m@n h@v3 t0 b3 @ v3rg1n t0 b3 @ nun?	Description
+What is teh Eglish mneaning of caliente ?	Description
+What are sme childern's rihgts?	Description
+How does a glacer form ?	Description
+What is salpeter ?	Description
+What do you need to do to marrry someone in jaill?	Description
+What is e-commerse ?	Description
+What is deadrise , nauticall , ?	Description
+What is a Mxican haireless ?	Description
+What is the meening of the name Kathryn ?	Description
+H0w d03s a hydr0l3ctric d4m w0rk?	Description
+What is the AIM-54C Phonix ?	Description
+What are the sevven dedly sins?	Description
+What was the Lnog March in Chna?	Description
+How can you defnine time ?	Description
+What are bar and bul markets ?	Description
+How does Bele describe her leif in Beuty and the BeasT?	Description
+What is the orgin of the word , JJ .	Description
+Why do pharmasists work on rased flors ?	Description
+What are the shrt- and lng-term efefcts of underge drinking ?	Description
+Why do peple shke hands to sho frendliness ?	Description
+What is Franz Kafk'a sshort story `` A Counttry Doctor '' trying to tel us ?	Description
+How do you do a biblography pag ?	Description
+What is the biblicl meening of ` stons ' ?	Description
+What is Toulmin logc ?	Description
+Why do airlners crash vs. glidng dwn ?	Description
+Whot elsse has the swastika stood for?	Description
+H0w c0m3 l1ght bulbs g0 0ut?	Description
+How did the mmonths of the yyear get ther nname?	Description
+Why i$ the univeRse flatt , if it $tarted by an explotion , shouldn 't it be a sphre ?	Description
+What is parcetamol ?	Description
+How do you get rid of woodpeckers ?	Description
+Haw dI tye a tye ?	Description
+How do they fnd or choos witnesses to an execuion?	Description
+How do you find ou what is alowed to claime as a contbrution for income tax purpuses?	Description
+How doez an abacus wrk?	Description
+What are the medicall purpooses of `` clitoridectomy '' ?	Description
+What is molybdenumm?	Description
+What is the deign of the shp Titanic ?	Description
+How does the spead the magnet spinns in a generator afect the output of the generater?	Description
+What is meant by blodd SED rate ?	Description
+What 15 the d1fference between a fruit and a vegetable ?	Description
+What can I do to get into an Ivey League skool?	Description
+What is digitallis ?	Description
+Why did David Koresh ask the FBB for a word prccessor?	Description
+What is the Hub of Londo ?	Description
+Shea and Gould closd their Los Angeles ofice for what resason?	Description
+How do you throw a housewarming party?	Description
+How does a smal businssman contct the Giod Hmor Ice Cream cmpany to do busness with them?	Description
+What are the major d1fferences in the Cath0lic and Method1st rel1g1ons?	Description
+What is Buttrfield 8 in Buttrfield 8 ?	Description
+How do you slect wine?	Description
+What is whte chocalate ?	Description
+What is the hiwtory of skatebording ?	Description
+What hapened during the Blacwhawk Indian war of 1832 ?	Description
+How do you fix squeeky flors?	Description
+Defin Sinn Fain.	Description
+How can I get some free tecnhical informatin on Electric Vehicel?	Description
+What is teh origin of U.S. Army sargeant's stripes ?	Description
+Where did the marraige ceremoney come from ?	Description
+What is fibber in food ?	Description
+Wh4t m4k3s h4mburg3rs t4st3 lik3 st34kb4rg3rs?	Description
+What is Jane Goodall famus for ?	Description
+Wh@t is @ urol@gist ?	Description
+Where did the sayng `` rule of thum '' come frm ?	Description
+What was Suzy Packer doing to earn $1 , 000 in the earley 1950 's ?	Description
+Why do the chikenpoxs last so longg?	Description
+Why is Thansgiving on a Thrusday ?	Description
+What is the orgin of the atom ?	Description
+How does rabies sprad?	Description
+What wa5 a Mae We5t on a World War II battle5hip ?	Description
+How doo you bbuy stocks ?	Description
+Wh@t 's th0 Olymp1c m0tt0?	Description
+How is Eastr Sunday 's date detemined ?	Description
+What does storrm waave meaan in Japaneese ?	Description
+How did the bikini bathing sute get its nam?	Description
+What shuld you yell to hail a taxi in Mdrid?	Description
+What do pointed lettrs mean to a hnadwriting analyst?	Description
+What does it mean `` Ruppee Depreciates '' ?	Description
+How doos Cos Cob , CT get its name ?	Description
+What is Cabarnet Sauvingnon ?	Description
+H0w c@n I l00k up s0m3on3's E-m@il @ddr3ss 0n th3 Int3rn3t?	Description
+Haw is silk screning done ?	Description
+What is ofice automation ?	Description
+What is the purpse of the SysRq key on my compyter keybord ?	Description
+Whot is a g@s r3l34s3 3v3nt?	Description
+Where did teh name root beeer com from ?	Description
+What is te meaning of Jesis ?	Description
+How doo I install a tile florr ?	Description
+What is Candlemass Day ?	Description
+Hwo is a hydrogne bomb dffrent frm a nucler bomb?	Description
+What hapened to Pepzi Cleer ?	Description
+How is water treated to make it safe to drink?	Description
+What problms contrbuted to the high failur rate of Plains farmrs in the 1800s ?	Description
+What 's an aubirge in Frnace ?	Description
+What i5 Plc ?	Description
+What is the filmmakers collabrativ ?	Description
+What are b0xcars?	Description
+What is litterary cristicism ?	Description
+What is the 0rig1n 0f the w0rd 0zymandias ?	Description
+What is the orign of the name Kati ?	Description
+How do I fnd info abot rce importers in thw world?	Description
+What is the Kashmire issue ?	Description
+What do y0u d0 when y0ur m0use isn't w0rking as f4st as it's sup0sed t0?	Description
+What is a tonn ?	Description
+How can I fnd a list of , fax and or emial , adresses for humn resouce departmnts in Massachusets ?	Description
+What does the Grek word polise mean , as in Minneapolies ?	Description
+H0w wa5 hte Kenne1dy m0ney made ?	Description
+How cmoe a doughtnut has a hole in it ?	Description
+What do bee hives do in cranbery bogs?	Description
+How do aunts hav sex ?	Description
+Wh@t is the onLy m0dern l@ngu@ge th@t c@pit@liz3s its s1ngul@r f1rst-p3rson pr0n0un?	Entity
+What whisly is `` knwn by the cmpany it keps '' ?	Entity
+What dieaee did August von Wazzermann deve1op a 5pecific tezt fer in 196 ?	Entity
+What war saw bttles at Parrot's Beak and Blak Virgn?	Entity
+Name a product that kontrols the ripenin of apples .	Entity
+Wht is teh smalest thing seen undr teh most powrfl microscop, and how big is it?	Entity
+What 1s `` th3 b3ar 0f b33rs ''?	Entity
+Wh4t c3mpu7er 4p3r4t1ng s3st3m 1s 0n th3 m4st c0mpu7ers ?	Entity
+What are the 7 artcles of the conatitution ?	Entity
+Wh@t f1lm c@n1n3 1s bµr13d 1n P3r3-L@ch@1s3 c3m3t3ry 1n P@r1s ?	Entity
+Wh4t'5 th3 n4m3 0f a g0lff c0ur5e in Myrtlee Be4ch?	Entity
+A c0rgi 1s a k1nd 0f what ?	Entity
+What is a feear of thundeer?	Entity
+What leter apears on the col-water tap in Spian?	Entity
+What clor Pokr chip is usully asigned the lowst valye?	Entity
+What ability has the silkw0rm m0th l0st thr0ugh d0m3stic@tion ?	Entity
+1n wh4t b00k c4n 1 f1nd th3 5t0ry 0f 4l4dd1n?	Entity
+What sng put James Taylro in the limllight ?	Entity
+Wh@t d0es V1s1n3 g3t 0ut ?	Entity
+What is a feer of childern ?	Entity
+What doos salivah consist of ?	Entity
+What is kept in F0rt Kn0x that is so valuable ?	Entity
+What are two plantz that clozhe are made frum?	Entity
+What class is categoreized as the burgeoisie ?	Entity
+What cmmmon livestock have the grreatest varriety of breedss?	Entity
+What is a feer of night or darknss ?	Entity
+What does a chef c0ddle eggz in ?	Entity
+What kind of edcation do I ned to becmoe a fligt atendant?	Entity
+What was the name 0f th3 ball game play3d by th3 may@ns ?	Entity
+What ovralls are nmed for Dungri , a suburb of Bmbay ?	Entity
+Who were John F. Kenndys 's dgs ?	Entity
+Whet clor is `` esh '' ?	Entity
+Which tw0 pr0duct5 u5e a tiger a5 their 5ymbol ?	Entity
+What does a topophobic actir sffer from?	Entity
+What is the process called for boring a hole in your cranium to achieve a higher awareness?	Entity
+Wh4t is th3 c4rr3ct w4y t4 us3 `` m4y '' vs. `` m1ght ''?	Entity
+What was the name of the cmputer in ` 2001 : A Spae Odysey ' ?	Entity
+Wh4t fiv3-tim3 winn3r 0f th3 K3ntucky D3rby l0st his firsst 25 racess?	Entity
+Wh@t w3@p0n is th3 myth0l0gic@l ch@r@ct3r @p0ll0 m0st pr0fic13nt w1th ?	Entity
+Whot wos thE eIghth dAy fOllowing thE Nones in Eoch mOnth Of thE RomAn cAlEndAr cAlled?	Entity
+What 's bottld in jeroboams ?	Entity
+Wh4t c0l0r 0f dry w1n3 sh0uld b3 $3rv3d w1th v34l r0@$t$ 4nd ch0p$ ?	Entity
+What are the rites acompanying the circumcision of a newly born-child in Judaisim caled ?	Entity
+What plnts are fount in an estuary?	Entity
+What is teh best way to travell in Japaan ?	Entity
+What 's the greeen varriety of beryl caled ?	Entity
+What hide-an-seek gaem is played arounf a tin can?	Entity
+What do chfs cal The Mster Spice ?	Entity
+What product feautres a frog that says `` dig 'em '' ?	Entity
+What new gmaes are avaiable for Nintendo 64 ?	Entity
+What film was Jude Lwaw in ?	Entity
+What fooods ccontain vitmain B12 ?	Entity
+What English word contains the most letters?	Entity
+What k1nd 0f guit@r d1d J1m1 H3ndr1x pl@y?	Entity
+What is widdely used to dtect birtth defects?	Entity
+Name the vessle use by the Atari Froce in the DC comics.	Entity
+What was the name of the `` Littlle Rascals '' dogg ?	Entity
+What daliy neewspaper will `` help you see clearrer across the USA '' ?	Entity
+What mediem is Stuart Hamblen the frist singin cowbay in ?	Entity
+In th3 Mi11er Lit3 TV c0mm3rcia1, wh0 is th3 cr3atur3?	Entity
+Whaat Kennedy was marrid to Ethel?	Entity
+In what r3ligion was Is1s th3 natue g0dd3ss ?	Entity
+What George Harrisson tune sounded too munch like He 's So Fine by The Chifons ?	Entity
+What is a g00d b00k to rread for pe0ple wh0 h8e to rread?	Entity
+What was the name of Hittler's unsuccesful atempt to overthrow the Bavarian goverment in Munic in 1923?	Entity
+What kind of roket launched the Survyor spacecraft?	Entity
+What is the term for a grop of geesee?	Entity
+Wher does your haer groo the fastst?	Entity
+What aloy do cuper and tin form ?	Entity
+WhAt 's b33n th3 ruiN 0f m4ny 4 p00r b0y 1n N3w 0rl33nz?	Entity
+What two amimals are specifically mencioned as being in Noah 's Ark ?	Entity
+What TV stashion did Mary Richards werk for ?	Entity
+What p0em c0ntain5 the line, `` gr0w 0ld with me the be5t i5 yet t0 be ''?	Entity
+What Shakeapearean play featuured Shylock ?	Entity
+What are the snaekes of New Englad?	Entity
+What colers make up a rainbowe ?	Entity
+What is the best sellling computer model eever?	Entity
+What were the achievemants of Richard Nixxon?	Entity
+Wh4t ch0c0l4t3 b4r cr34t3d by Fr4nk M4rs 4nd h3s w1f3 1s 0ft3n c4ll3d 4 M1lky W4y w1th p34nuts?	Entity
+Wh@t is th3 m0st fam0us G3rm@n w0rd in th3 3nglish l@ngu@g3?	Entity
+What knd of siut did trur hepcats wear in 1942?	Entity
+What cr0p fa1lure caused the Ir1ish Famine ?	Entity
+What is Ray Bradbury 's illustraetd man illustraetd with ?	Entity
+What does an ashen-faced eidologist serch out the exsistence of ?	Entity
+What ch3mical in r3d w!ne is g00d for the h3art and what ex4ctly d0es it d0 to your b0dy?	Entity
+What is the main ingridient of yohgurt?	Entity
+What do oposite faces of a die alwayz add up to?	Entity
+Wich is the larges clock , diamter wise , in Eurpoe ?	Entity
+What D.H. Lawrenc noval was orignally titled Tinderness?	Entity
+What is mony made of ?	Entity
+What 's an infant ceal calld ?	Entity
+What aminal has killed the most peeple ?	Entity
+What did Beny Carter plzy ?	Entity
+What 's the term for an oraganism that lves on or in anothr ?	Entity
+What doess NAFTA stand fror ?	Expression
+What do the lettes D.C. stand for in Washngton , D.C. ?	Expression
+What is teh acronim for teh National Bureau of Investgation ?	Expression
+In a computar , what does SCSI meen ?	Expression
+Wht is th3 4bbr3vi4ti0n f0r 0rigin4l 3qu1pm3nt M4nuf4ctur3r?	Expression
+Wht does BMV stnd for ?	Expression
+Who was the star witnes at the Senate Watergate hearngs?	Human
+Who sh0t and k1ll3d h1ms3lf wh1le p@int1ng Whe@tf1eld w1th Cr0wz?	Human
+What subarban houswife and muther of three rote The Feminine Mistique ?	Human
+What are teh first names of Rowan and Martin , teh stars of TV 's Laugh-In ?	Human
+Wh1ch Japane5e car mak3r had 1t5 b1gg3st p3rc3ntag3 0f 5al3 1n th3 d0m35t1c mark3t?	Human
+What is Miichael Jacksn 's middele namme ?	Human
+What was the busness of the animated Sky Haws?	Human
+Wh4t j4urn4list c4n b3 f3und in 4nd 4r0und W4ld3n Puddl3?	Human
+What Cru!$e Line d0e$ Kathie Lee G!ff0rd adv3rt!$e f0r ?	Human
+Who mad the larget coaine seizure in Vntura Cnty hstory?	Human
+Who won the rugbee world cupp in ?	Human
+Wh0 waz the 0ldest U.S. pre3ident?	Human
+Name the fiv positions who are in the line of sucession to the presedency.	Human
+What is the lst nme of Lcy and Lnuis frm the Pnut 's cmic strip ?	Human
+What was Am3r1can f0lk h3r0 J0hn Chapm4n's n1cknam3?	Human
+What appoinmints secratary to Richard Nixxon went to jail ?	Human
+Who is the mathmatician that won the Noble Prize for Literture in 1950,?	Human
+Who is Desmnd Tutu ?	Human
+Which 0f th3 f4m0us p30pl3 d05s n0t p41nt 4s 4 h0bby ?	Human
+What actorr frst portryed Jamez Bond ?	Human
+Who des data colletcion in toourism ?	Human
+What Engish physician was bron on January 18 , 1779 nad went on to create two importnat invetions ?	Human
+Who mad Stonehenge ?	Human
+What radio sattion did Paul Harvy wrk fr?	Human
+Who wrotte The Red Badg of Courage ?	Human
+What cigar-ch3wing c0median ob5erved : `` Y0u 'r3 only @5 0ld @5 the w0m@n y0u f33l '' ?	Human
+Who potrayed Fatman in the televsion show, `` Jake and the Fatman '' ?	Human
+Name Dick Tracy 's two childern.	Human
+What is the name of the firm taht makes Spumante ?	Human
+Who is Nicolo Paganin ?	Human
+Who was Charels Lindbergh 's wyfe ?	Human
+What was th3 nam3 0f th3 f1rst Wat3rgat3 sp3cial pr0s3cut0r, lat3r f1r3d by N1x0n?	Human
+WhAt tw0 c0mm4nd3rs d1r3ct3d th3 f0rc3s 1n th3 B@ttl3 0f El Al4m31n?	Human
+Who inventd the tootbrsh?	Human
+What Argentine b0xer wa5 5h0t dead 0ut5ide a Nevada br0thel in May ?	Human
+What famus singng cowby owns the Calfornia Angels basebll teem ?	Human
+What is a persson called that likes firre ?	Human
+What Honeymooners actres did Televsion magzine name as 1953 's most promissing star ?	Human
+Who dircted the frst Woody Woodpecker cartn ?	Human
+What actorr was the frst man to apper on the cover of McCall's?	Human
+Who is the sexiest wmen in te world ?	Human
+Wh@t 0rganizat@ion h@s @ Securrity C0uncil?	Human
+Who was the athor of the novle `` Far From the Madding Crowd '' ?	Human
+Who played Saly Rggers on The Dick Vn Dyke Show ?	Human
+What was the nmae of the Ttanic's captin ?	Human
+Who wuas the lawyur whu represnted Randy Steven Craft?	Human
+What ar3 th3 0nly pl@yers 3l1g1bl3 t0 sc0r3 p01nts 1n R0ll3r D3rby c@ll3d?	Human
+Wh0 d3s1gn3d L0nd0n Br1dg3?	Human
+Whot raletive of Leo Toltsoy trandslated War and Pice eight tamz?	Human
+Wh4t P0lyn3s14n p34pl3 1nh4b1t N3w Z34l4nd ?	Human
+Who was the Charli perfumw wooman ?	Human
+What basbeall teem owner and sailor is knwon as The Mouthe of the Southe?	Human
+Who ceated Big Ben?	Human
+What titlle did Suzette Charlee assume for two months in 1983 ?	Human
+What Jpanese manufaturer is knwon for both its pinanos and its mocorcycles?	Human
+Who was the invntor of silly putty?	Human
+What ccomic of TV 's ggolden age went by the motto `` Anything for a laug '' ?	Human
+Wh@t i5 th3 Viking Prin5e'5 fir5t n@me ?	Human
+Who discovred imaginar numbers ?	Human
+Who creaeted the Ffantastic Foor, Hhulk, and Thorr?	Human
+What part did John Peter Znger play in the devleopment of the neewspaper in America ?	Human
+Wh@t w@s th3 r3@l n@m3 @f wr!t3r R0ss M@cd0n@ld, cr3@t0r 0f th3 h3r0 L3w @rch3r?	Human
+Who was the author of `` Jon Brown 's Bodi '' ?	Human
+What Indian trbe is F Troop perpetually doing batlle with ?	Human
+What basebal plyer was knwn as Charlee Husstle?	Human
+Wher did Guliver find a rcae of tiny peple?	Location
+What dsert has been called The Garde of Allah ?	Location
+Where do lobsters lyke to liv?	Location
+What ccuntry in 1998 had the most suiides regarless of populatio size?	Location
+In what cunta is Eckly Colirado?	Location
+Where 's Montenegrro ?	Location
+What cuntry are you in if you woo in the WU dialect?	Location
+What occean surrouneds the Maldiv Islands?	Location
+Where does Buz Aldrin want to bild a permant , maned spase stasion ?	Location
+What are the top 5 talles bbuildings in the world?	Location
+What cuntry boasts Cawdor Casttle , Glamis Castl , and Blair Cstale ?	Location
+Whaht state in teh United Sttaes covers teh largst aera?	Location
+Where in the Amercas is it only 47 mles from the Atlantic to the Pacifc?	Location
+Where does the sng Anthing Goes take plce?	Location
+Wher can I find the lyriics for the sonng ` Getting Marriedd Todaay ' from the muusical ` Companny ' ?	Location
+What are the larget libraries in the US ?	Location
+What cuntries earn the most frm tourism ?	Location
+What m0untain r4ng3 is travers3d by the h1gh3st railroad in the w0rld?	Location
+What is the largst shoppng mal in the world?	Location
+Wh4t U.S. c1ty 's sk1yl1n3 b04sts th3 G4t3w4y 4rch ?	Location
+Wh3r3 hav3 th3 mo$t din0$aur r3main$ b33n found ?	Location
+What coudntry boasts the most dams ?	Location
+What river is Wndosr Castle on ?	Location
+What sea did teh Romans call mare nostrum ?	Location
+Wht is the geograpical cnter of the US incldng Alaska and Hawaii?	Location
+Wheer did the Mya peple live ?	Location
+What cuntry 's capitaal is Lag0s ?	Location
+Where is Glawsgow ?	Location
+What ccountry was Hittler the chancellr of ?	Location
+Wh4t 1s th3 n4m3 0f th3 c1ty th4t M4ur1z1o P3ll3gr1n l1v3s 1n ?	Location
+Wh@t c0untry 1s l0c@ted @t 13 d3gr33s N0rth l@t1tud3 @nd 10 d3gr33s E@st l0ng1tud3?	Location
+What southwestern state is dubed The Silvr Sate ?	Location
+Whre wre th 196 Smmer Olymics held?	Location
+What famedd rivver was Hernando de Soto the frst Eeurpean to see ?	Location
+What two cuntries are lnked by the Brenner Psss?	Location
+Wh@t 0c34n is th3 l@rg3st in th3 w0rld?	Location
+Wh3r3 c4n I f1nd th3 sch3m4tics t0 th3 w1ndsh13ld w1p3r m3ch4n1sm?	Location
+Where is Poe 's birtplce ?	Location
+Where is the Henery Ford Muzeem?	Location
+What is the larget lake in North Amrica ?	Location
+Where is the largest pst office bulding in the wrld ?	Location
+On wh4t riv3r iz R0m3 bult?	Location
+Wh@t c@ty is th@ s3tting f0r PucCini 's @pera L@ B0h3m3?	Location
+Where are some grate eductional resorces for parnts and teechers ?	Location
+What cuntry was General Douglas McArthurr in when he was recalled by President Trueman?	Location
+N@me @n @rt g@ll3ry 1n N3w Y0rk .	Location
+What cuntry in Latiin Amerca is the larget one?	Location
+What is the nam of the cpuntry which Hitlr ruled ?	Location
+What famd L0ndon crimnal cort was 0nce a feudal casle?	Location
+Where can I find detai1ed information about Manchuku0?	Location
+What ciy gained renow for its pea-soup fogs?	Location
+What bqy divids Marylnd 's Eastern and Westrn Shors ?	Location
+Wh3r3 is th3 m4ss1v3 N0rth K0r3an nucl34r c0mpl3x l0cat3d ?	Location
+Wh3r3 d1d th3 6th @nnu@l m33t1ng 0f 1nd0n3s14-M@l@ys14 f0r3st 3xp3rts t@k3 pl@c3 ?	Location
+Wh3re can an 1nd1v1dual g3t a c0nt4ct l3ns t3st3d th@t b0rn3d th3 3nt1r3 surf4ce 0f 3y3 wh3n n3w?	Location
+What cntry 's flg is feeld grren ?	Location
+What are all the 50uth3rn 5tate5 of the U41ted 5tate5?	Location
+What stadiu m do the Miam i Dolphins play th eir home gam es in ?	Location
+Wher can I find a picuture of a Blu Meanie ?	Location
+What are the larget breweries in the world?	Location
+What 's the sacrd river of Inda ?	Location
+What are the five ritchest cuntries in the world?	Location
+Whch cuntry is knwn az `` Bzg Bear ''?	Location
+What cuntry has declard one-fifth of its teritory off-limits to Rusians?	Location
+What cuntry has the port of Haifa?	Location
+Wh3r3 is th3 L00p ?	Location
+What cuntry was A Terrible Beuty to Leon Uris ?	Location
+Wher is Sinn Fain 's headquaters ?	Location
+Wh3r3 1s th3 br1dg3 0v3r th3 r1v3r Kwal?	Location
+What ctity is smetimes clled The Athenes of Swtizerland?	Location
+What man-mad3 wat3rways 15 1.76 mll3s l0ng ?	Location
+What cntry has bn calld The Quen of th Antilles ?	Location
+What is the larget islad in the Medterranean Sea ?	Location
+Where did the ukulale orijinate?	Location
+Wh3r3 d1d th3 r3al St. N1ch0las l1v3 ?	Location
+What ciyy doe5 McCarren Aiirport sservee?	Location
+Where can I f0nd all the 1nformat10n I need t0 kn0w ab0ut the Engl1sh C1v1l W4r, 1642-1649?	Location
+Where can I reed about Abraham Linc oln ?	Location
+What is the largsst cointy in sizze in Massachussets ?	Location
+What two Eurpean countriees entered the War of Amercan Independence aganst the British?	Location
+How many timmes can a nikkle-cadmium rechargable batttery bee recharged?	Number
+How many peeple died on D-Day ?	Number
+How meny skool distrcts are there in the Unites Staits?	Number
+H0w m0ch 3n3rgy 1s r3l34s3d wh3n 0x1g3n 4nd hydrog3n m1x3d?	Number
+H0w f4r i5 L0nd0n UK fr0m C4lif0rni4 ?	Number
+How much in mils is a ten K runn?	Number
+H0w_l0ng_d0e$_it_tak3_f0r_Spid3r-M@n_'s_w3b_t0_3v@p0r@t3?	Number
+Wh4t 1s th3 pr4b4b1l1ty th4t 4t l34st 2 0ut 0f 25 p30pl3 w1ll h4v3 th3 s4m3 b1rthd4y?	Number
+What is the all-time st0ck high of Apple C0mputer , and where can I find this infformation ?	Number
+H0w l0ng sh0uld y0u feed y0ur puppY Pur1na PuppY Ch0w?	Number
+Wh4t r4ti0 0f ch1ldr3n 0f 4g3s b3tw33n tw0 4nd 3l3v3n w4tch ` Th3 S1mps0ns ' ?	Number
+Wh3n w@s th3 battl3 0f th3 S0mme f0ught?	Number
+What is the populatoin of Kanasas ?	Number
+How long dues a flye live ?	Number
+When were camcorders intrdoduced in Malaysia ?	Number
+How oftern are brain cels replased?	Number
+When was the slnky invented?	Number
+How mny peple in Amerrica snoree?	Number
+In whot yeer wuz the cennon inventid ?	Number
+How many electorla college votes does Colrado have ?	Number
+How many tmes a year does the Amercan Gourd Socity publish The Gourd ?	Number
+What 's the populatioon of Mississippi ?	Number
+Wh3n was th3 f1rst flush t0ilet 1nv3nt3d?	Number
+Wh@t is th3 ch3m1c@l r3@ct1v1ty of n30n?	Number
+How much mony can a prson be fined for having a dg on a beah?	Number
+When did the art of quiltng begin ?	Number
+How manny sides doess a heptggon have ?	Number
+On whot dy wer John F ond Jockie Kennidy morried?	Number
+When is Dick Clak 's birtdey ?	Number
+H0w many Jew5 were executed in c0nc3ntrati0n camp5 during WWII ?	Number
+How many yeras of shcooling after highschool does it take to beocme a neurosurgen?	Number
+Hwo many feett l0ng is a basebll p1tch3r 's r0bber ?	Number
+Wh@t !s th3 ch3m!c@l r3@ct!v!ty 0f h3l!m?	Number
+How far do you hav to run if you hit a hom run ?	Number
+Huw meny ments dees it teke thw moin tu revulve eround thw Erth?	Number
+What is teh aiport code for Los Angelees Internatiional ?	Number
+How old is Jeramy Piven ?	Number
+Wh3n d1d th3 r0yal w3dd1ng 0f Pr1nc3 Andr3w annd F3rg1e tak3 placc?	Number
+In what yeer was the furst patent for the pul-tab opner on cans obtaind?	Number
+What will the Califormia pass tax be in the year 2000?	Number
+How many Caanadians emigrate eahc yeear?	Number
+Hw many zeeros are thrre in a trillion?	Number
+Hw old is tpo old fr a chld to nt be tlking?	Number
+How meny miles is it to Ohyo from North Karolina ?	Number
+How muich will gas be taxxed in Calfornia by the yeaar 2000 ?	Number
+How big is a norml size penis for a 15-year-old?	Number
+H0w many tr33s g0 int0 p4p3r mak1ng in a y34r?	Number
+Whot ore th lynths of peerl necklcs ?	Number
+H0w l0ng is th3 w0rld's l4rg3st sh1p, in m3t3rs?	Number
+Wh4t d0e5 4n 4v3r4g3 d4yc4r3 pr0v1d3r g3t p41d 1n N3w 3ngl4nd ?	Number
+In what yeear did Chna and the Repbulic of Korea establsh diplomatic reations?	Number
+How many elvators do you ride to reahc the top flor of the Empire Stae Building?	Number
+What sentry 's the sating for TV 's The Adventures of Robyn Hood ?	Number
+Hw many ppoints is a bullseye woth in darts?	Number
+H0w m4ny fl4v0r5 0f i53 cr34m d0355 H0w4rd J0hns0n'5 h4v3 ?	Number
+How mucj folic acid shoulf an expectant mther get daily ?	Number
+How much wuld it cost to purchace a 2-foot-squre party tent , with sides , ?	Number
+What numbr of American solders reman unacounted from the Vietnam war?	Number
+How many movis has Drew Barrymor ben in?	Number
+When did Aldous Huxley writ, `` Brave New World '' ?	Number
+Whut es ths ppaletien ef Arcidia, Flirida?	Number
+What is the populaiton of Ohiio ?	Number
+What is the currnt tickt fare from Cairo to Barbadose?	Number
+What mmonth, dat, and yeer did Charle I die ?	Number
+What is the p0pu1ati0n 0f M0zambiq1ue ?	Number
+By how much will the Calfornia state gas tax rise by the yera 2000?	Number
+What are the odds of giving burth to twins ?	Number
+In 1990 , what day of the wekk did Chrismas fall on ?	Number
+How mucg does one ton of cemnt cst ?	Number
+How mucg do drgs to trrat tuberculoss cost ?	Number
+What is the cost of the drgs used in tuberculisis treatments?	Number
+How many peeple livd in Nebrasca in the mid 1900s ?	Number
+What is the avrage agge a horse lves ?	Number
+What yeer did nylone stockings ferst go on sale ?	Number
+How many squar feets is Bill Gattes ' home ?	Number
+When was Berline 's Brandenburg gate errected?	Number
+How many peeple does Honda emply in the U.S. ?	Number
+What 's the persentage of childern aged too through elevan who watch ` 'The Simpsons ' ?	Number
+What is the qantity of Amrican soldiers stil unacounted for from the Vietnam war ?	Number
+What 1s th3 g3stat10n p3r10d f0r human pr3gnanc13s ?	Number
+How meny peeple liv in Chile?	Number
+What seson beggins with the vernal equnox ?	Number
+H0w m4ny f1ng3r$ ar3 u$3d t0 dr4w 4 b0w?	Number
+When was the De Beers compnay founded ?	Number
+How mny furlongs ar there in a mile-and-a-qarter racetrack?	Number
+What yer did the frst isue of `` Playbpy '' come out ?	Number
+How many elefants are left on erth ?	Number
+What wa5 Thatcher '5 appr0val rating aft3r 10 year5 in pow3r ?	Number
+How many websits are thare in the world ?	Number
+How many laguages does teh Pope speek?	Number
+What was the ferst miminum wage ?	Number
+Wh@t 's @ p3rf3ct sc@r3 in @ gymn@stics 3x3rcis3 ?	Number
+How mucch do tuberculossis combatting drugz cost ?	Number
+When did Spiielberg direct `` Jaws '' ?	Number
+What is the pig populashun of the world ?	Number
+What is the latitude and longtitude of El Paso , Texas ?	Number
+Wh3r3 d0e$ th3 U.$. r@nk @m0ng w0rld c0untrie$ 1n @r3@ ?	Number
+H4w l4ng d4 y4u h4v3 t4 l3v3 in 4 c4mmunity t4 v4t3?	Number
+How meny dots make up the symbo for `` becase '' ?	Number
+How many teats does a femaile goat sport ?	Number
+What percint of wurld's frish woter is found in Canuda?	Number
+How many peple in the wrld speek French ?	Number
+How much monee does each player get at the begining of the game in Monoply ?	Number
+How long does it take the typicl hen to lay 19 dozn eggs ?	Number
+When did Gotthic art and achitecture flurish ?	Number
+What is the avrage salaray of a paleontoligist ?	Number
+How mny peple have ben Captn America ?	Number
+What is the avrage date wen most malls begin putting up Christmass hoilday decoratons ?	Number
+How mcuh does the Prensident get paied?	Number
+H0w m4ny p3oople d13d wh3n th3 3ston1a s4nk 1n 1994?	Number
+On whcih date is the Ukarinians ' Chrismas ?	Number
+In whut yeer did Hitlr gain powr of Germiny ?	Number
+What is Dick C1ark 's date 0f b1rth ?	Number
+What is an exampl of an actul case of using the Fourteenth Amendmnt?	Description
+What is the orgin of hed lice ?	Description
+What is a g4ndy d4ncer ?	Description
+Why do peeple in the uppir penensula of Michagan say `` eh ? '' ?	Description
+What are some fun thngs to do in Cozummel , Mexcio for teenagrs ?	Description
+What is a hyperlinke ?	Description
+How does an abacucs work ?	Description
+What is Archimedes famus for ?	Description
+How do you cleen badly tarnished brass ?	Description
+What makes thund3r ?	Description
+What is a phalanx?	Description
+Whot is a pyrotechnoc dIsplAy?	Description
+Wut is Junes birtston?	Description
+How can I stop or sleow down agnng?	Description
+From what causse does tuberculossis stem?	Description
+Wh@t is teh ec0n0mic impact 0f unempl0yment 0n teh ec0n0my?	Description
+Why are egss suposed to be storred smal end down ?	Description
+How kan you contakt play producerrs and promotors on-line ?	Description
+Wh@t w3r3 th3 f1rst w0rds sp0k3n 0n @ f1lm s0und tr@ck ?	Description
+What woud happen to Canada if Quebec separted ?	Description
+What is diabetes?	Description
+How did serfdom devlop in and then leev Russia ?	Description
+Why does a woman have to be a virginn to be a nun ?	Description
+How do camras take picturs?	Description
+Wh@t is J@n3 G00dall kn0wn f0r ?	Description
+What is the diference between a genrator and an alernator ?	Description
+What is the orgin of the word `` palbearer ? ''	Description
+What 1s an arab strap ?	Description
+What is swp math ?	Description
+What is c0sm0l0gy ?	Description
+How do I knkow if I'm jealious of someone?	Description
+What is the defintion of the Scrabble word ` syzygy ' ?	Description
+How can someone bcome a fedral agent?	Description
+What does palindromicc mean ?	Description
+WhEre dId thE tErm `` 69 '' c0mE fr0m ?	Description
+H0w d0 y0u wr1te a c0rr3ct cr1t1cal analys1s 0f a p03m?	Description
+What is home baning ?	Description
+H4w d1d th3 U.S. c0m3 1nt0 th3 p0ss3ss10n 0f 4n 3mp1r3 1n th3 w4k3 0f th3 Sp4n1sh-Am3r1c4n W4r?	Description
+What do you sey to a frend who igonres you for other frends ?	Description
+H0w c4n I g3t s0m3on3's ph0n3 numb3r if I 0nly hav3 th3ir scr33n nam3e?	Description
+What is tumbled marbel?	Description
+What was the furst Funk 'N Lata , Brazilian grup , success ?	Description
+Wh4t c4t3g0ry d03s th3 c0l0r p1nk d3n0t3 1n th3 Tr1v14l Purrsuit B4by B00m3r 3d1t10n?	Description
+Why wuz Washington , DC orijinaly calld Distrct of Collumbia ?	Description
+What is the Emish religion ?	Description
+What is the historcal relatinship of Cattholic Church and bngo ?	Description
+What hapens to used moter oil ?	Description
+In Waugh's `` A Handful of Dust , '' what does the mad old man force the hero to do every afternon ?	Description
+What are the distinct phyisical characteistics of the Arabian horsse?	Description
+What dooes Robrt mean ?	Description
+Wh@t @s th3 m33n3ng @f W.B. Y3@t 's p03m , `` Th3 Thr33 H3rmits ? ''	Description
+Why are orgam trandsplnts more succsessful tday?	Description
+H0w 3s plastlc mad3d?	Description
+Why do USA fax mach1nes n0t w0rk 1n UK , NNP ?	Description
+What 1s the 0r1g1n 0f game1ophyt1c t1ssue ?	Description
+What is the natre of lerning ?	Description
+Wh@t @r3 p30pl3 d01ng t0 h3lp pr3v3nt th3 3xt1nct10n 0f b1rds?	Description
+What does the name `` Anth0ny '' mean ?	Description
+What is the diffrence betwen a median and a maen?	Description
+What do Hank Aaron , Jimmy Stewart , and Howard K. Smith have in commen ?	Description
+What is cach memory ?	Description
+What is a urologsist ?	Description
+Hwo do anti-loking brakes wrk?	Description
+Why are there 12 peple on a jurry in criminal cases ?	Description
+What doos the term glorey hole meen ?	Description
+Wh4t 1s th3 0r1g1n 0f th3 w0rd, JJ.	Description
+Where did the term `` 86 '' came fromm ?	Description
+Why do girs hav to wear tranning bras ?	Description
+What informaiton can you get me on Fairgound Park in St. Lousi?	Description
+What is meant by the term `` y13ld t0 m4turity '' in r3f3r3nc3 to b0nds ?	Description
+What 's an aubrrge in Fraance ?	Description
+What is saltpeter?	Description
+What hapened in dogtown in 1899 to make that yyear remmbered?	Description
+H0w d0es cr0sst@lk r3l@t3 t0 !nSb th!ckn3ss in !nfr@r3d d3t3ct0rs?	Description
+What is Butterfield 8 in Butterfiield 8 ?	Description
+H0w d0 y0u c@lcUl8te the ch@ng3 in 3nth4lpy 0f a ch3m1cal r3act10n?	Description
+What is a geoscienctist?	Description
+Wh@t 3v3r h@pp3n3d t0 th3 0nc3 p0pul@r Y@l3 L0ck C0mp@ny ?	Description
+What 1s th3 b1bl1cal m33n1ng 0f ` st0n3s ' ?	Description
+What '5 th3 0rig1n 0f th3 w0rd ` n3w5 ' ?	Description
+Why d0es 4 wh33l , 3.g. 4 c4r t1r3 , 4pp34r t0 sp1n 1n th3 0pp0s1t3 d1r3ct10n 4s 1t sl0ws d0wn ?	Description
+What does the naem Shawn meann?	Description
+Whot is Rmembrance Dey oll aboot ?	Description
+What is typhoid fevr?	Description
+H0w c@n I c@ll @ fr13nd 1n @n0th3r c0untry wh3n I d0 n0t kn0w th3 t3l3ph0n3 numb3r?	Description
+What is the spektrum of a sine wvae?	Description
+Why are the eears your cener of balnce?	Description
+Why do peeple shke hnds to sho frendliness?	Description
+How do you detemine if a computer moniter has an SVGA adpater?	Description
+What cau5e5 pneumonia?	Description
+What wa5 the imp0rtance 0f Magellan ?	Description
+What was the clim to fame of the footbal game that saw Fordham defeat Waynesburg State 12601 on Septmber 3 , 1939 ?	Description
+Why is it calld `` hamburgr '' if ther is no ham in it ?	Description
+What are Fortne 500 compnies?	Description
+Wh3t d0 y0u n33d t0 d0 t0 m4rry s0m33on3 1n ja1l ?	Description
+How is ` qigong ' propeerly pronouncdd ?	Description
+Why is Indiglo caled Indiglo ?	Description
+How do you get bublegum out of carpett?	Description
+Whot is so powrrful abaut Powir Bars?	Description
+What doezs verdandi meaan?	Description
+Wh@t d0es th3 numb3r 33 0n th3 R0lling R0ck b33r b0ttl3 m33n?	Description
+How does a submarn oprate?	Description
+How do I knwo how mcuh mney to save for retiremnt ?	Description
+Defne Spumante.	Description
+How do I contact Answrs.com dirrect?	Description
+What ar3 Christopher Mar10we's and Shak3sp3ar3's 1iterary c0ntributi0ns t0 3ng1ish 1iteratur3?	Description
+Whut es th3 0r1g1n 0f th3 0t0m ?	Description
+Wh4t is th3 0rig1n 0f th4nk y0u n0t3s?	Description
+What is a transistr ?	Description
+What is an eclogical nische?	Description
+What 's the rathaus in Frannkfurt ?	Description
+What is a speecimen of basidomycetes ?	Description
+What charecteristics contrbute to its `` intellegence '' ?	Description
+What are Cobol , Fortran , and Paschal ?	Description
+What reavelation did Alexander Butterfield make to the Sente Watergate comittee?	Description
+H0w iz silk screeening d0ne ?	Description
+How come lite bulbes go out ?	Description
+Why do you say `` God bles you '' when peple sneeze ?	Description
+Why are hanted housses poplar?	Description
+What 3s hypertext ?	Description
+Whot es a turrkney ccontract?	Description
+Whaht is a Furst Wurld ccountry?	Description
+How does lite travle through the void of spac if there is no medum for it to ` wave ' or ` pulss ' .	Description
+Why d1d th3 Sh34 & G4uld l4w f1rm l34v3 L4s 4ng3l3s?	Description
+What effcts do nitratres have on the enviroment?	Description
+What is paracetamo ?	Description
+What is Betsy Ross famuus for ?	Description
+What is a persson 's socioeconomic pozition ?	Description
+What is gymnophobhia ?	Description
+What is the meical conition of hypertension ?	Description
+Why were red M&Ms discontinud then brough back?	Description
+What knd of substnace is dextropropoxphen napsylat?	Entity
+What is a feear of helo ?	Entity
+Whcih thrilled tase buds frst - Snickers or 3 Musketeers?	Entity
+Wh4t ar3 s0m3 g00d 3x3rcis3s f0r k1dz t0 d0o ?	Entity
+What is teh onley vegtable that starts with `` z '' ?	Entity
+Wh@t 's th3 dumb3st d0m3stic@t3d @nim@l ?	Entity
+What buk does Holden Caulfield apeear in ?	Entity
+For what desease is the drug Sinemett used as a tretment ?	Entity
+Wh4t ar3 th3 titl3s 4f s0m3 R-Rat3d S0ny Playst4tion g4m3s ?	Entity
+Wh4t J.R.R. T0lk33n b00k f34tur3s G1ml1 as a c3ntr4l charact3r?	Entity
+What vechicles are racd in the Tou de France?	Entity
+Name a fliing mamal.	Entity
+What 's bottld in jeroboams ?	Entity
+What is `` the tast that beats the oters cold '' ?	Entity
+What diseaase does Katharine Hepburn have that makes her voive shake ?	Entity
+What was the speceis of Winnie the Pooh?	Entity
+What animal recived royl assent as an embleem of Canadia on March 24 , 1975 ?	Entity
+What speceis was Winni the Pooh ?	Entity
+Name a 5alt Lake C1ty n3w5pap3r.	Entity
+Wh@t i5 `` th3 gr3@t Am3ric@n f@mily c3r34l '' ?	Entity
+What does a farrier put shooes on ?	Entity
+Whot wer3 th3 c3r3m0ny tr1d1t10ns l1k3 dur1ng th3 3l1zab3th1an t1m3s?	Entity
+Wh1ch h@1r c@re pr0duct t0ld u5 `` h@te th@t gr@y , w@$h 1t @w@y '' ?	Entity
+What 's the most commom non-cntagous diseas in teh wrld ?	Entity
+What fouds cointain vitamin B12 ?	Entity
+What Peter Blatty noval recounts the horors of Regan MacNeil 's posession by the devl ?	Entity
+What ar3 th3 varlous ways 1n wh1ch 0n3 can m3asur3 1T Us3r Sat1sfact10n L3v3l?	Entity
+Wh@t i5 th3 be5t-5elling b00k 0f @ll time?	Entity
+What do flatfosh eat ?	Entity
+What was the name of Betty Boop's dogg?	Entity
+What `` majick '' does Mandrake emply ?	Entity
+What anesthetic did Queen Victora alow to be used for the brith of her seventh chld , in 1853 ?	Entity
+Wh@t 's th3 c0mm0n n@me f0r @c3tyls@lic @c1d?	Entity
+What are sme of Australias natve flura ?	Entity
+What did Martin Luther psot on the churh door at Wittenberg?	Entity
+What i5 th3 m05t p0pu1ar 5p0rt5 car c0l0r ?	Entity
+What golfing accesory was patnted by George Grant on Decmber 12th	Entity
+What kind of animel is Babar?	Entity
+What is the electronic devise used to produice visual displasy corresponding to electric sigals ?	Entity
+What hair culor can I use to just cuver a little gray ?	Entity
+Wh@t hymn d@d J@hn St31nb3ck g3t h3s titl3 Th3 Gr@p3s @f Wr@th fr@m?	Entity
+Which comix strp was nevur turnd into a Broadway muscal?	Entity
+What is teh name of teh secod spac shuttle ?	Entity
+What kynd of fyle has the extenzion .dbf ?	Entity
+What are the sevn wondes of the wrld ?	Entity
+Wh@t 3ngl1sh w0rd c0m3s fr0m th3 0ld Fr3nch c0vrf3µ , m34n1ng c0v3r f1r3 ?	Entity
+What was the frist English play writen exclusivly for childern?	Entity
+Whcih is the most-used cmpeer program ?	Entity
+What ar3 th3 d1ff3r3nt typ0s 0f plast1c?	Entity
+What produckt 's ads cclaim that it `` elimminates odors , kills household germs , mold , and mildeww '' ?	Entity
+What is a langauge spoken by the Sioux ?	Entity
+What is th3 world 's b3st s3lling cooqi3?	Entity
+What aafter-diner tret was ivented in 1916 at the Geroge Jung noodl facotry in Los Angeles ?	Entity
+What stringd wepon fies a bolt ?	Entity
+What has to be produced in a writ of habas corpus?	Entity
+What is a word whose leters can be rearrangsd to form a diffrent wurd ?	Entity
+Which mamal livs , breeds , eets , and sleaps undergrond ?	Entity
+What was the title of the American vessel sunk by a mine in Havana harbor, igniting the Spanish-American conflict?	Entity
+What do you ccall a ssection of your fingger from one jpoint to antoher?	Entity
+What is April's gemstoe?	Entity
+What racehorce won an Associated Press pole as the grateist hoarse of the 20th century?	Entity
+What is the name pf the Michelangelo painting that shws twp hands with fingers touching ?	Entity
