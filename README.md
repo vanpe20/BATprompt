@@ -7,7 +7,7 @@ The performance of Large Language Models (LLMs) is based on the quality of the p
 ## 🔜Quick Start
 
 ### ⚙️Settings
-· **Evironment**: `pip install -r requirements.txt`
+· **Environment**: `pip install -r requirements.txt`
 · **Data**: The data after adversarial perturbation is in the folder `./data`. To obtain the raw data, you can click here: [SAM](https://paperswithcode.com/dataset/samsum-corpus), [ASSET](https://github.com/facebookresearch/asset), [language-understanding](https://nlp.cs.princeton.edu/projects/lm-bff/datasets.tar)
 · **OPENAI-API**: Please put the openai key in the file `./temp_file/key.yaml`
 
