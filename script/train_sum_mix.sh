@@ -14,6 +14,7 @@ python run.py \
     --task sim \
     --language_model gpt\
     --llm_type turbo \
+    --sample_num default \
     --setting default \
     --iter 3 \
     --ad_iter 5 \
