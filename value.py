@@ -36,7 +36,7 @@ def run(args,prompt=None):
     
     else:
         for j, cls in enumerate(weak):
-            score1 = gen.white_evaluate(prompt, attack_class= cls, judge=True)
+            score1 = gen.white_evaluate(prompt, attack_class= cls)
             scores.append(score1)
         return scores
 
