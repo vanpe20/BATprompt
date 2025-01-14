@@ -13,7 +13,7 @@ from llm_ge import *
 from adversarial_attack import *
 from generate_prompt import *
 import logging
-from transformers import LlamaTokenizer, LlamaForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 
 
@@ -26,8 +26,8 @@ class Adver_Optimaize:
             self.tokenizer = None
 
         else:
-            self.tokenizer = LlamaTokenizer.from_pretrained(args.language_model)
-            self.model = LlamaForCausalLM.from_pretrained(args.language_model)
+            self.tokenizer = AutoTokenizer.from_pretrained(args.language_model)
+            self.model = AutoModelForCausalLM.from_pretrained(args.language_model)
             self.model = self.model.to(self.device)
             self.model.eval()
 

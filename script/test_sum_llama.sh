@@ -15,7 +15,7 @@ python value.py \
     --task sum \
     --iter 3 \
     --ad_iter 5 \
-    --language_model llama\
+    --language_model meta-llama/Llama-2-7b-hf\
     --setting default \
     --attack_type mix \
     --data_gen False \
