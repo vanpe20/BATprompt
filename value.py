@@ -33,7 +33,6 @@ def run(args,prompt=None):
             scores.append(score1)
     
         return scores
-
     
     else:
         for j, cls in enumerate(weak):

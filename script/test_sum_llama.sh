@@ -15,7 +15,7 @@ python value.py \
     --task sum \
     --iter 3 \
     --ad_iter 5 \
-    --language_model gpt\
+    --language_model llama\
     --setting default \
     --attack_type mix \
     --data_gen False \
