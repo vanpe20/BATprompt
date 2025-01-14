@@ -7,7 +7,7 @@ export CUBLAS_WORKSPACE_CONFIG=:16:8
 
 
 OUT_PATH=./log
-dataset=sam
+dataset=xsum
 
 python value.py \
     --prompt  "Identify the main idea or central theme of the text." \

@@ -55,8 +55,8 @@ class Adver_Optimaize:
     def white_evaluate(self, prompts, attack_class):
         scores = []
         if self.args.task == 'sum':
-            src = './data/sam/test/attack_res_{}.txt'.format(attack_class)  
-            tgt = './data/sam/test_target/valid.tgt'
+            src = './data/xsum/test/attack_res_{}.txt'.format(attack_class)  
+            tgt = './data/xsum/test_target/valid.tgt'
 
 
             test_src, test_tgt = read_lines(src), read_lines(tgt)  
@@ -174,10 +174,10 @@ class Adver_Optimaize:
         scores = []
         if self.args.task == 'sum':
             if judge:
-                src = './data/sum/sam/test/attack_res_{}.txt'.format(attack_class)  
+                src = './data/sum/xsum/test/attack_res_{}.txt'.format(attack_class)  
             else:
-                src = './data/sum/sam/test_target/valid.src'
-            tgt = './data/sum/sam/test_target/valid.tgt'
+                src = './data/sum/xsum/test_target/valid.src'
+            tgt = './data/sum/xsum/test_target/valid.tgt'
             print(src)
 
             test_src, test_tgt = read_lines(src), read_lines(tgt)  
@@ -328,7 +328,7 @@ class Adversarial(Adver_Optimaize):
 
                     for idx, ans in enumerate(answer):
                         if self.args.task == 'sum':
-                            with open('./data/sum/sam/train/attack_res_{}.txt'.format(idx), 'a', encoding='utf-8') as f:
+                            with open('./data/sum/xsum/train/attack_res_{}.txt'.format(idx), 'a', encoding='utf-8') as f:
                                 if ans == src:
                                     f.write("Need to Regenerate"+ '\n')
                                 else:
@@ -446,9 +446,9 @@ class Open_optimize(Adver_Optimaize):
     def load_att_data(self, i = None):
         if self.args.task == 'sum':
             if i is None:
-                path = './data/sum/sam/data_enhance.txt'
+                path = './data/sum/xsum/data_enhance.txt'
             else:
-                path = './data/sum/sam/train/attack_res_{}.txt'.format(i)
+                path = './data/sum/xsum/train/attack_res_{}.txt'.format(i)
             att_src = read_lines(path)
         elif self.args.task == 'sim':
             if i is None:

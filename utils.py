@@ -154,9 +154,9 @@ def load_sum_data(args, dataset, seed, sample_num = None, use_data = False):
     if use_data is True:
         dev_file = args.data_path_train
         test_file = args.data_path_test
-    if dataset == 'sam':
-        dev_file = './data/sum/sam/train_target/valid'
-        test_file = './data/sum/sam/test_target/valid'
+    if dataset == 'xsum':
+        dev_file = './data/sum/xsum/train_target/valid'
+        test_file = './data/sum/xsum/test_target/valid'
         dev_src, dev_tgt = load_sum_data_(args, f'{dev_file}.src',f'{dev_file}.tgt')
         test_src, test_tgt = load_sum_data_(args, f'{test_file}.src',f'{test_file}.tgt')
         return dev_src, dev_tgt, test_src, test_tgt
