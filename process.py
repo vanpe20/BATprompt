@@ -30,6 +30,10 @@ class Adver_Optimaize:
             self.model = AutoModelForCausalLM.from_pretrained(args.language_model)
             self.model = self.model.to(self.device)
             self.model.eval()
+            if self.tokenizer.pad_token is None:
+                self.tokenizer.pad_token = self.tokenizer.eos_token
+            if self.model.config.pad_token_id is None:
+                self.model.config.pad_token_id = self.tokenizer.pad_token_id
 
 
         self.args = args
@@ -130,23 +134,26 @@ class Adver_Optimaize:
 
             pred = []
             for test in tqdm(att):
-                instruction = f"{prompt}\n\n'{template}"
+                instruction = f"{template}\n\n{prompt}\n\n"
                 input = instruction.replace('<input>', test)
-                inputs = self.tokenizer(input, return_tensors="pt")
+                inputs = self.tokenizer(input, padding = True, truncation = True, return_tensors="pt")
                 
                 inputs = {key: value.to(self.device) for key, value in inputs.items()}
 
                 with torch.no_grad():
-                    outputs = self.model.generate(inputs['input_ids'], max_length=700)
+                   outputs = self.model.generate(inputs['input_ids'], attention_mask = inputs['attention_mask'], max_length=700)
 
                 output_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
 
-                start_index = output_text.rfind(test)
-                
-                end_index = output_text.find("\n\n", start_index)
-                ans = output_text[start_index:end_index+1].strip()
+                lines = output_text.strip().split('\n')
+                last_line = lines[-1].strip()
 
-                pre = open_trans(self.args.dataset, ans)
+                # start_index = output_text.rfind(test)
+                
+                # end_index = output_text.find("\n\n", start_index)
+                # ans = output_text[start_index:end_index+1].strip()
+
+                pre = open_trans(self.args.dataset, last_line)
 
                 pred.append(pre)
 
